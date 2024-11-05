@@ -1,0 +1,256 @@
+2024-10-27 18:03:57,286 - university_chatbot - INFO - Initializing University Chatbot...
+2024-10-27 18:03:57,306 - university_chatbot - INFO - Loading embedding model...
+2024-10-27 18:03:57,344 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-10-27 18:03:57,344 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-10-27 18:03:58,228 - university_chatbot - INFO - Loading language model...
+2024-10-27 18:04:13,090 - university_chatbot - ERROR - Error initializing models: 'UniversityChatbot' object has no attribute 'device'
+2024-10-27 18:05:15,587 - university_chatbot - INFO - Initializing University Chatbot...
+2024-10-27 18:05:44,535 - university_chatbot - INFO - Initializing University Chatbot...
+2024-10-27 18:05:44,535 - university_chatbot - INFO - Using device: cpu
+2024-10-27 18:05:44,535 - university_chatbot - INFO - Loading embedding model...
+2024-10-27 18:05:44,535 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-10-27 18:05:44,535 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-10-27 18:05:45,373 - university_chatbot - INFO - Loading language model...
+2024-10-27 18:05:57,418 - university_chatbot - INFO - Loading datasets...
+2024-10-27 18:05:57,548 - university_chatbot - INFO - Creating knowledge base...
+2024-10-27 18:05:57,864 - university_chatbot - INFO - Created knowledge base with 92 entries
+2024-10-27 18:05:57,864 - university_chatbot - INFO - Creating knowledge embeddings...
+2024-10-27 18:06:01,971 - university_chatbot - INFO - Chatbot initialization complete!
+2024-10-27 18:06:02,137 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.6:5000
+2024-10-27 18:06:02,137 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-27 18:06:32,285 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 18:06:32] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-27 18:06:32,547 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 18:06:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-27 18:16:51,551 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 18:16:51] "[33mPOST / HTTP/1.1[0m" 404 -
+2024-10-27 18:17:10,728 - app - ERROR - Exception on /ask [POST]
+Traceback (most recent call last):
+  File "C:\Users\MY PC\Documents\Development\Python\ai-chatbot\venv\lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\MY PC\Documents\Development\Python\ai-chatbot\venv\lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\MY PC\Documents\Development\Python\ai-chatbot\venv\lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\MY PC\Documents\Development\Python\ai-chatbot\venv\lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\MY PC\Documents\Development\Python\ai-chatbot\app.py", line 25, in ask
+    response, knowledge_used = chatbot.generate_response(query)
+AttributeError: 'UniversityChatbot' object has no attribute 'generate_response'
+2024-10-27 18:17:10,837 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 18:17:10] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+2024-10-27 18:18:39,905 - university_chatbot - INFO - Initializing University Chatbot...
+2024-10-27 18:18:39,905 - university_chatbot - INFO - Using device: cpu
+2024-10-27 18:18:39,905 - university_chatbot - INFO - Loading embedding model...
+2024-10-27 18:18:39,910 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-10-27 18:18:39,910 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-10-27 18:18:56,878 - university_chatbot - INFO - Loading language model...
+2024-10-27 18:19:20,276 - university_chatbot - INFO - Loading datasets...
+2024-10-27 18:19:20,675 - university_chatbot - INFO - Creating knowledge base...
+2024-10-27 18:19:20,858 - university_chatbot - INFO - Created knowledge base with 92 entries
+2024-10-27 18:19:20,858 - university_chatbot - INFO - Creating knowledge embeddings...
+2024-10-27 18:19:26,480 - university_chatbot - INFO - Chatbot initialization complete!
+2024-10-27 18:19:26,752 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.6:5000
+2024-10-27 18:19:26,764 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-27 18:19:34,065 - app - ERROR - Exception on /ask [POST]
+Traceback (most recent call last):
+  File "C:\Users\MY PC\Documents\Development\Python\ai-chatbot\venv\lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\MY PC\Documents\Development\Python\ai-chatbot\venv\lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\MY PC\Documents\Development\Python\ai-chatbot\venv\lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\MY PC\Documents\Development\Python\ai-chatbot\venv\lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\MY PC\Documents\Development\Python\ai-chatbot\app.py", line 25, in ask
+    response, knowledge_used = chatbot.get_response(query)
+ValueError: too many values to unpack (expected 2)
+2024-10-27 18:19:34,107 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 18:19:34] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+2024-10-27 18:25:43,701 - university_chatbot - INFO - Initializing University Chatbot...
+2024-10-27 18:25:43,701 - university_chatbot - INFO - Using device: cpu
+2024-10-27 18:25:43,705 - university_chatbot - INFO - Loading embedding model...
+2024-10-27 18:25:43,707 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-10-27 18:25:43,707 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-10-27 18:25:44,506 - university_chatbot - INFO - Loading language model...
+2024-10-27 18:26:03,664 - university_chatbot - INFO - Loading datasets...
+2024-10-27 18:26:04,223 - university_chatbot - INFO - Creating knowledge base...
+2024-10-27 18:26:04,558 - university_chatbot - INFO - Created knowledge base with 92 entries
+2024-10-27 18:26:04,558 - university_chatbot - INFO - Creating knowledge embeddings...
+2024-10-27 18:26:08,894 - university_chatbot - INFO - Chatbot initialization complete!
+2024-10-27 18:26:09,030 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.6:5000
+2024-10-27 18:26:09,030 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-27 18:26:28,631 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 18:26:28] "POST /ask HTTP/1.1" 200 -
+2024-10-27 18:28:16,411 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 18:28:16] "POST /ask HTTP/1.1" 200 -
+2024-10-27 18:49:55,304 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 18:49:55] "POST /ask HTTP/1.1" 200 -
+2024-10-27 19:08:51,902 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:08:51] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 19:09:14,548 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:09:14] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 19:13:02,072 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:13:02] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 19:15:02,063 - university_chatbot - INFO - Initializing University Chatbot...
+2024-10-27 19:15:02,063 - university_chatbot - INFO - Using device: cpu
+2024-10-27 19:15:02,063 - university_chatbot - INFO - Loading embedding model...
+2024-10-27 19:15:02,063 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-10-27 19:15:02,063 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-10-27 19:15:27,381 - university_chatbot - INFO - Loading language model...
+2024-10-27 19:17:00,473 - university_chatbot - INFO - Initializing University Chatbot...
+2024-10-27 19:17:00,474 - university_chatbot - INFO - Using device: cpu
+2024-10-27 19:17:00,475 - university_chatbot - INFO - Loading embedding model...
+2024-10-27 19:17:00,477 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-10-27 19:17:00,479 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-10-27 19:17:16,671 - university_chatbot - INFO - Loading language model...
+2024-10-27 19:17:33,987 - university_chatbot - INFO - Loading datasets...
+2024-10-27 19:17:34,184 - university_chatbot - INFO - Creating knowledge base...
+2024-10-27 19:17:34,305 - university_chatbot - INFO - Created knowledge base with 92 entries
+2024-10-27 19:17:34,305 - university_chatbot - INFO - Creating knowledge embeddings...
+2024-10-27 19:17:38,201 - university_chatbot - INFO - Chatbot initialization complete!
+2024-10-27 19:17:38,380 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.6:5000
+2024-10-27 19:17:38,381 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-27 19:18:00,786 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:18:00] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 19:18:00,933 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:18:00] "POST /ask HTTP/1.1" 200 -
+2024-10-27 19:28:22,225 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:28:22] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 19:28:22,321 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:28:22] "POST /ask HTTP/1.1" 200 -
+2024-10-27 19:29:44,796 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:29:44] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 19:29:44,877 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:29:44] "POST /ask HTTP/1.1" 200 -
+2024-10-27 19:30:02,891 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:30:02] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 19:31:32,805 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:31:32] "POST /ask HTTP/1.1" 200 -
+2024-10-27 19:32:37,275 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:32:37] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 19:33:17,309 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:33:17] "POST /ask HTTP/1.1" 200 -
+2024-10-27 19:33:43,181 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:33:43] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 19:33:43,248 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:33:43] "POST /ask HTTP/1.1" 200 -
+2024-10-27 19:36:52,109 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:36:52] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 19:37:26,265 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:37:26] "POST /ask HTTP/1.1" 200 -
+2024-10-27 19:44:27,306 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:44:27] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 19:45:18,030 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:45:18] "POST /ask HTTP/1.1" 200 -
+2024-10-27 19:48:20,924 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:48:20] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 19:49:23,050 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:49:23] "POST /ask HTTP/1.1" 200 -
+2024-10-27 19:54:11,531 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:54:11] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 19:55:39,996 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 19:55:39] "POST /ask HTTP/1.1" 200 -
+2024-10-27 20:11:19,481 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 20:11:19] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-27 20:13:01,293 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2024 20:13:01] "POST /ask HTTP/1.1" 200 -
+2024-10-28 12:10:42,729 - university_chatbot - INFO - Initializing University Chatbot...
+2024-10-28 12:10:42,729 - university_chatbot - INFO - Using device: cpu
+2024-10-28 12:10:42,729 - university_chatbot - INFO - Loading embedding model...
+2024-10-28 12:10:42,729 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-10-28 12:10:42,729 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-28 12:10:47,744 - university_chatbot - INFO - Loading language model...
+2024-10-28 12:11:36,495 - university_chatbot - INFO - Loading datasets...
+2024-10-28 12:11:36,942 - university_chatbot - INFO - Creating knowledge base...
+2024-10-28 12:11:37,205 - university_chatbot - INFO - Created knowledge base with 92 entries
+2024-10-28 12:11:37,205 - university_chatbot - INFO - Creating knowledge embeddings...
+2024-10-28 12:11:40,772 - university_chatbot - INFO - Chatbot initialization complete!
+2024-10-28 12:11:40,962 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.6:5000
+2024-10-28 12:11:40,962 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-28 12:16:39,065 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:16:39] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-28 12:18:00,323 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:18:00] "POST /ask HTTP/1.1" 200 -
+2024-10-28 12:19:21,619 - university_chatbot - INFO - Initializing University Chatbot...
+2024-10-28 12:19:21,619 - university_chatbot - INFO - Using device: cpu
+2024-10-28 12:19:21,619 - university_chatbot - INFO - Loading embedding model...
+2024-10-28 12:19:21,635 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-10-28 12:19:21,635 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-10-28 12:19:22,246 - university_chatbot - INFO - Loading language model...
+2024-10-28 12:19:35,012 - university_chatbot - INFO - Loading datasets...
+2024-10-28 12:19:35,120 - university_chatbot - INFO - Creating knowledge base...
+2024-10-28 12:19:35,377 - university_chatbot - INFO - Created knowledge base with 92 entries
+2024-10-28 12:19:35,377 - university_chatbot - INFO - Creating knowledge embeddings...
+2024-10-28 12:19:37,829 - university_chatbot - INFO - Chatbot initialization complete!
+2024-10-28 12:19:37,936 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.6:5000
+2024-10-28 12:19:37,936 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-28 12:19:48,597 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:19:48] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-28 12:19:48,719 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:19:48] "POST /ask HTTP/1.1" 200 -
+2024-10-28 12:19:57,983 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:19:57] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-28 12:19:58,117 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:19:58] "POST /ask HTTP/1.1" 200 -
+2024-10-28 12:20:09,460 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:20:09] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-28 12:20:50,928 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:20:50] "POST /ask HTTP/1.1" 200 -
+2024-10-28 12:21:31,627 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:21:31] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-28 12:21:31,732 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:21:31] "POST /ask HTTP/1.1" 200 -
+2024-10-28 12:21:50,582 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:21:50] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-28 12:22:37,504 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:22:37] "POST /ask HTTP/1.1" 200 -
+2024-10-28 12:23:48,329 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:23:48] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-28 12:24:40,015 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:24:40] "POST /ask HTTP/1.1" 200 -
+2024-10-28 12:27:05,209 - university_chatbot - INFO - Initializing University Chatbot...
+2024-10-28 12:27:05,209 - university_chatbot - INFO - Using device: cpu
+2024-10-28 12:27:05,209 - university_chatbot - INFO - Loading embedding model...
+2024-10-28 12:27:05,209 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-10-28 12:27:05,209 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-10-28 12:27:05,735 - university_chatbot - INFO - Loading language model...
+2024-10-28 12:27:18,093 - university_chatbot - INFO - Loading datasets...
+2024-10-28 12:27:18,108 - university_chatbot - INFO - Creating knowledge base...
+2024-10-28 12:27:18,353 - university_chatbot - INFO - Created knowledge base with 92 entries
+2024-10-28 12:27:18,353 - university_chatbot - INFO - Creating knowledge embeddings...
+2024-10-28 12:27:19,715 - university_chatbot - INFO - Chatbot initialization complete!
+2024-10-28 12:27:19,744 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.6:5000
+2024-10-28 12:27:19,745 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-28 12:27:38,139 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:27:38] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-28 12:28:30,087 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:28:30] "POST /ask HTTP/1.1" 200 -
+2024-10-28 12:38:02,657 - university_chatbot - INFO - Initializing University Chatbot...
+2024-10-28 12:38:02,658 - university_chatbot - INFO - Using device: cpu
+2024-10-28 12:38:02,659 - university_chatbot - INFO - Loading embedding model...
+2024-10-28 12:38:02,662 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-10-28 12:38:02,662 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-10-28 12:38:07,160 - university_chatbot - INFO - Loading language model...
+2024-10-28 12:38:23,538 - university_chatbot - INFO - Loading datasets...
+2024-10-28 12:38:23,661 - university_chatbot - INFO - Creating knowledge base...
+2024-10-28 12:38:23,728 - university_chatbot - INFO - Created knowledge base with 92 entries
+2024-10-28 12:38:23,728 - university_chatbot - INFO - Creating knowledge embeddings...
+2024-10-28 12:38:27,061 - university_chatbot - INFO - Chatbot initialization complete!
+2024-10-28 12:38:27,142 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.6:5000
+2024-10-28 12:38:27,142 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-28 12:38:45,447 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:38:45] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-28 12:39:56,676 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:39:56] "POST /ask HTTP/1.1" 200 -
+2024-10-28 12:44:13,856 - university_chatbot - INFO - Initializing University Chatbot...
+2024-10-28 12:44:13,857 - university_chatbot - INFO - Using device: cpu
+2024-10-28 12:44:13,859 - university_chatbot - INFO - Loading embedding model...
+2024-10-28 12:44:13,862 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-10-28 12:44:13,863 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-10-28 12:44:18,900 - university_chatbot - INFO - Loading language model...
+2024-10-28 12:44:36,471 - university_chatbot - INFO - Loading datasets...
+2024-10-28 12:44:36,523 - university_chatbot - INFO - Creating knowledge base...
+2024-10-28 12:44:36,565 - university_chatbot - INFO - Created knowledge base with 92 entries
+2024-10-28 12:44:36,565 - university_chatbot - INFO - Creating knowledge embeddings...
+2024-10-28 12:44:41,424 - university_chatbot - INFO - Chatbot initialization complete!
+2024-10-28 12:44:41,477 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.6:5000
+2024-10-28 12:44:41,480 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-28 12:44:59,971 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:44:59] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-28 12:45:00,114 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:45:00] "POST /ask HTTP/1.1" 200 -
+2024-10-28 12:45:14,582 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:45:14] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-28 12:45:54,841 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:45:54] "POST /ask HTTP/1.1" 200 -
+2024-10-28 12:49:02,459 - university_chatbot - INFO - Initializing University Chatbot...
+2024-10-28 12:49:02,459 - university_chatbot - INFO - Using device: cpu
+2024-10-28 12:49:02,459 - university_chatbot - INFO - Loading embedding model...
+2024-10-28 12:49:02,459 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-10-28 12:49:02,459 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-10-28 12:49:07,241 - university_chatbot - INFO - Loading language model...
+2024-10-28 12:49:25,085 - university_chatbot - INFO - Loading datasets...
+2024-10-28 12:49:25,159 - university_chatbot - INFO - Creating knowledge base...
+2024-10-28 12:49:25,226 - university_chatbot - INFO - Created knowledge base with 92 entries
+2024-10-28 12:49:25,226 - university_chatbot - INFO - Creating knowledge embeddings...
+2024-10-28 12:49:27,752 - university_chatbot - INFO - Chatbot initialization complete!
+2024-10-28 12:49:27,856 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.6:5000
+2024-10-28 12:49:27,856 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-28 12:49:39,614 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:49:39] "OPTIONS /ask HTTP/1.1" 200 -
+2024-10-28 12:50:34,520 - werkzeug - INFO - 127.0.0.1 - - [28/Oct/2024 12:50:34] "POST /ask HTTP/1.1" 200 -
