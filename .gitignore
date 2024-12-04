@@ -1,0 +1,12 @@
+# Model checkpoints and weights
+models/checkpoints/
+**/model.safetensors
+**/optimizer.pt
+models/model_v1.0.0/model.safetensors
+
+# Common Python files to ignore
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/

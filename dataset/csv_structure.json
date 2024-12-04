@@ -1,0 +1,146 @@
+{
+  "accreditations_partnerships.csv": {
+    "columns": [
+      "type",
+      "organization"
+    ],
+    "num_rows": 9,
+    "num_columns": 2,
+    "sample_data": {
+      "type": "Ministry of Education \u2013 Higher Education Affairs",
+      "organization": " UAE"
+    }
+  },
+  "admissions_info.csv": {
+    "columns": [
+      "program_level",
+      "requirement_type",
+      "requirement"
+    ],
+    "num_rows": 14,
+    "num_columns": 3,
+    "sample_data": {
+      "program_level": "Undergraduate",
+      "requirement_type": "UAE Curriculum (Elite & Advanced Track)",
+      "requirement": "Minimum overall average of 70%"
+    }
+  },
+  "events_and_news.csv": {
+    "columns": [
+      "date",
+      "type",
+      "title",
+      "description"
+    ],
+    "num_rows": 18,
+    "num_columns": 4,
+    "sample_data": {
+      "date": "30 May 2024",
+      "type": "News",
+      "title": "Interview with Professor Ahmad Al Ali",
+      "description": "Interviews with Professor Ahmad Al Ali published in Gulf News and Khaleej Times"
+    }
+  },
+  "facilities.csv": {
+    "columns": [
+      "facility_name",
+      "category"
+    ],
+    "num_rows": 16,
+    "num_columns": 2,
+    "sample_data": {
+      "facility_name": "Engineering laboratories",
+      "category": "Academic"
+    }
+  },
+  "faculties_programs.csv": {
+    "columns": [
+      "faculty",
+      "program_type"
+    ],
+    "num_rows": 10,
+    "num_columns": 2,
+    "sample_data": {
+      "faculty": "Faculty of Engineering",
+      "program_type": "Undergraduate"
+    }
+  },
+  "faculty_info.csv": {
+    "columns": [
+      "name",
+      "title",
+      "department",
+      "email",
+      "phone",
+      "education",
+      "specialization",
+      "research_interests"
+    ],
+    "num_rows": 31,
+    "num_columns": 8,
+    "sample_data": {
+      "name": "Prof. Dr. Hicham Machmouchi",
+      "title": "Dean",
+      "department": "Faculty of Engineering",
+      "email": "Hicham.Machmouchi@emirates.com",
+      "phone": "+971 4 6050187",
+      "education": "BSc Aeronautical Engineering (1984), MSc Thermodynamics (1987), PhD Mechanical Engineering (1994) - University of Birmingham",
+      "specialization": "Aircraft propulsion, Jet Engine Simulation, Gas Turbine Diagnostics",
+      "research_interests": "Sustainability, Sustainable Aviation, Environmental Impact assessments"
+    }
+  },
+  "programs_and_courses.csv": {
+    "columns": [
+      "program_name",
+      "level",
+      "department",
+      "courses"
+    ],
+    "num_rows": 11,
+    "num_columns": 4,
+    "sample_data": {
+      "program_name": "Air Transport Management",
+      "level": "Bachelor of Science (Honours)",
+      "department": "Business",
+      "courses": "Introduction to Air Transport Industry, Aviation Strategy and Planning, Airline Route and Fleet Planning, Airline and Airport Management, Introduction to Business, Advanced Communication Studies, Introduction to Organisational Behaviour, Introduction to Marketing, Introduction to Airport Operations, Introduction to Airline Operations, Introduction to Air Transport Quality and Safety, Introduction to Management Information Systems, Aircraft Design and Performance, Air Transport Economics, Air Transport Team Project, Introduction to Financial Management, Human Factors in Aviation, Aviation Management Project"
+    }
+  },
+  "research_and_publications.csv": {
+    "columns": [
+      "faculty_name",
+      "research_interest",
+      "publication_title",
+      "publication_venue"
+    ],
+    "num_rows": 32,
+    "num_columns": 4,
+    "sample_data": {
+      "faculty_name": "Dr. Anju Anna Jacob",
+      "research_interest": "Nanotechnology, Semiconductors, Optoelectronics",
+      "publication_title": "Band Gap Engineering in Zinc Oxide",
+      "publication_venue": "RSC Advances"
+    }
+  },
+  "student_services.csv": {
+    "columns": [
+      "service_name"
+    ],
+    "num_rows": 5,
+    "num_columns": 1,
+    "sample_data": {
+      "service_name": "Career Services Department"
+    }
+  },
+  "university_basic_info.csv": {
+    "columns": [
+      "name",
+      "value"
+    ],
+    "num_rows": 9,
+    "num_columns": 2,
+    "sample_data": {
+      "name": "university_name",
+      "value": "Emirates Aviation University"
+    }
+  }
+}

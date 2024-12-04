@@ -1,0 +1,14 @@
+{
+  "train_loss": 0.5676212092606324,
+  "train_time_seconds": 73129.6126,
+  "samples_per_second": 0.053,
+  "peak_memory_gb": 0,
+  "training_finished": "2024-11-26T13:48:02.558212",
+  "config": {
+    "epochs": 3,
+    "batch_size": 8,
+    "learning_rate": 2e-05,
+    "fp16": false,
+    "gradient_checkpointing": true
+  }
+}

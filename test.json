@@ -1,0 +1,44 @@
+[
+    {
+        "type": "location",
+        "query": "Where is the university located?",
+        "expected_response": "The university is located at Dubai Academic City - Dubai - United Arab Emirates.",
+        "expected_knowledge": [
+            "Location: Dubai Academic City - Dubai - United Arab Emirates"
+        ]
+    },
+    {
+        "type": "faculty",
+        "query": "Who is the faculty Dr. Deepudev?",
+        "expected_response": "Dr. Deepudev Shahadevan is an Assistant Professor in the Faculty of Mathematics and Data Science. His specialization is Data Science, Machine Learning, and Air Traffic Management.",
+        "expected_knowledge": [
+            "Dr. Deepudev Shahadevan is a Assistant Professor in the Faculty of Mathematics and Data Science",
+            "Specialization: Data Science, Machine Learning, Air Traffic Management"
+        ]
+    },
+    {
+        "type": "admission",
+        "query": "What are the admission requirements?",
+        "expected_response": "For UAE Curriculum (Elite & Advanced Track), you need a minimum overall average of 70%. English proficiency requirements include TOEFL iBT 79 or IELTS 6.0.",
+        "expected_knowledge": [
+            "For UAE Curriculum (Elite & Advanced Track): Minimum overall average of 70%",
+            "For English Proficiency: TOEFL iBT 79 or IELTS 6.0"
+        ]
+    },
+    {
+        "type": "facilities",
+        "query": "What facilities do you have?",
+        "expected_response": "Our facilities include engineering laboratories, workshops, flight simulators, Learning Resource Centre, cafeteria, coffee shop, and sports facilities including swimming pool, gym, and tennis courts.",
+        "expected_knowledge": [
+            "The Academic facilities include: Engineering laboratories, Workshops, Flight simulators, Learning Resource Centre",
+            "The Sports facilities include: Swimming pool, Gym, Tennis courts",
+            "The Dining facilities include: Cafeteria, Coffee shop"
+        ]
+    },
+    {
+        "type": "edge_case",
+        "query": "How old are you?",
+        "expected_response": "I am an AI assistant focused on providing information about Emirates Aviation University. I can help you with questions about our programs, admissions, facilities, and other university-related topics.",
+        "expected_knowledge": []
+    }
+]

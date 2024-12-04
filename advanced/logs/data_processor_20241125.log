@@ -1,0 +1,153 @@
+2024-11-25 15:35:41,194 - data_processor - INFO - Loading datasets...
+2024-11-25 15:35:41,196 - data_processor - WARNING - Missing dataset: university_basic_info.csv
+2024-11-25 15:35:41,197 - data_processor - WARNING - Missing dataset: programs_and_courses.csv
+2024-11-25 15:35:41,199 - data_processor - WARNING - Missing dataset: facilities.csv
+2024-11-25 15:35:41,202 - data_processor - WARNING - Missing dataset: accreditations_partnerships.csv
+2024-11-25 15:35:41,204 - data_processor - WARNING - Missing dataset: faculties_programs.csv
+2024-11-25 15:35:41,213 - data_processor - WARNING - Missing dataset: events_and_news.csv
+2024-11-25 15:35:41,217 - data_processor - WARNING - Missing dataset: faculty_info.csv
+2024-11-25 15:35:41,219 - data_processor - WARNING - Missing dataset: key_features.csv
+2024-11-25 15:35:41,231 - data_processor - WARNING - Missing dataset: research_and_publications.csv
+2024-11-25 15:35:41,234 - data_processor - WARNING - Missing dataset: student_services.csv
+2024-11-25 15:35:41,246 - data_processor - INFO - Validating datasets...
+2024-11-25 15:35:41,247 - data_processor - ERROR - Missing dataset: basic_info
+2024-11-25 15:35:41,252 - data_processor - INFO - Creating knowledge base...
+2024-11-25 15:35:41,263 - data_processor - INFO - Created knowledge base with 0 entries
+2024-11-25 15:35:41,270 - data_processor - INFO - Preparing training data...
+2024-11-25 15:35:41,278 - data_processor - INFO - Loaded knowledge base from cache
+2024-11-25 15:35:41,280 - data_processor - ERROR - Error preparing training data: You should supply an encoding or a list of encodings to this method that includes input_ids, but you provided []
+2024-11-25 15:38:01,194 - data_processor - INFO - Loading datasets...
+2024-11-25 15:38:01,196 - data_processor - WARNING - Missing dataset: university_basic_info.csv
+2024-11-25 15:38:01,198 - data_processor - WARNING - Missing dataset: programs_and_courses.csv
+2024-11-25 15:38:01,199 - data_processor - WARNING - Missing dataset: facilities.csv
+2024-11-25 15:38:01,202 - data_processor - WARNING - Missing dataset: accreditations_partnerships.csv
+2024-11-25 15:38:01,205 - data_processor - WARNING - Missing dataset: faculties_programs.csv
+2024-11-25 15:38:01,208 - data_processor - WARNING - Missing dataset: events_and_news.csv
+2024-11-25 15:38:01,214 - data_processor - WARNING - Missing dataset: faculty_info.csv
+2024-11-25 15:38:01,216 - data_processor - WARNING - Missing dataset: key_features.csv
+2024-11-25 15:38:01,217 - data_processor - WARNING - Missing dataset: research_and_publications.csv
+2024-11-25 15:38:01,219 - data_processor - WARNING - Missing dataset: student_services.csv
+2024-11-25 15:38:01,220 - data_processor - INFO - Validating datasets...
+2024-11-25 15:38:01,222 - data_processor - ERROR - Missing dataset: basic_info
+2024-11-25 15:38:01,225 - data_processor - INFO - Loaded knowledge base from cache
+2024-11-25 15:38:01,233 - data_processor - INFO - Preparing training data...
+2024-11-25 15:38:01,234 - data_processor - INFO - Loaded knowledge base from cache
+2024-11-25 15:38:01,235 - data_processor - ERROR - Error preparing training data: You should supply an encoding or a list of encodings to this method that includes input_ids, but you provided []
+2024-11-25 15:39:28,512 - data_processor - INFO - Loading datasets...
+2024-11-25 15:39:28,513 - data_processor - ERROR - Error loading datasets: unsupported operand type(s) for /: 'str' and 'str'
+2024-11-25 15:40:01,898 - data_processor - INFO - Loading datasets...
+2024-11-25 15:40:01,899 - data_processor - ERROR - Error loading datasets: 'str' object has no attribute 'filename'
+2024-11-25 15:42:30,699 - data_processor - INFO - Loading datasets...
+2024-11-25 15:42:30,701 - data_processor - WARNING - Missing dataset: university_basic_info.csv
+2024-11-25 15:42:30,703 - data_processor - WARNING - Missing dataset: programs_and_courses.csv
+2024-11-25 15:42:30,705 - data_processor - WARNING - Missing dataset: facilities.csv
+2024-11-25 15:42:30,707 - data_processor - WARNING - Missing dataset: accreditations_partnerships.csv
+2024-11-25 15:42:30,708 - data_processor - WARNING - Missing dataset: faculties_programs.csv
+2024-11-25 15:42:30,711 - data_processor - WARNING - Missing dataset: events_and_news.csv
+2024-11-25 15:42:30,712 - data_processor - WARNING - Missing dataset: faculty_info.csv
+2024-11-25 15:42:30,715 - data_processor - WARNING - Missing dataset: key_features.csv
+2024-11-25 15:42:30,717 - data_processor - WARNING - Missing dataset: research_and_publications.csv
+2024-11-25 15:42:30,718 - data_processor - WARNING - Missing dataset: student_services.csv
+2024-11-25 15:42:30,720 - data_processor - INFO - Validating datasets...
+2024-11-25 15:42:30,721 - data_processor - ERROR - Missing dataset: basic_info
+2024-11-25 15:42:30,730 - data_processor - INFO - Loaded knowledge base from cache
+2024-11-25 15:42:30,734 - data_processor - INFO - Preparing training data...
+2024-11-25 15:42:30,735 - data_processor - INFO - Loaded knowledge base from cache
+2024-11-25 15:42:30,737 - data_processor - ERROR - Error preparing training data: You should supply an encoding or a list of encodings to this method that includes input_ids, but you provided []
+2024-11-25 15:44:20,292 - data_processor - INFO - Loading datasets...
+2024-11-25 15:44:20,294 - data_processor - WARNING - Missing dataset: university_basic_info.csv
+2024-11-25 15:44:20,296 - data_processor - WARNING - Missing dataset: programs_and_courses.csv
+2024-11-25 15:44:20,298 - data_processor - WARNING - Missing dataset: facilities.csv
+2024-11-25 15:44:20,300 - data_processor - WARNING - Missing dataset: accreditations_partnerships.csv
+2024-11-25 15:44:20,303 - data_processor - WARNING - Missing dataset: faculties_programs.csv
+2024-11-25 15:44:20,306 - data_processor - WARNING - Missing dataset: events_and_news.csv
+2024-11-25 15:44:20,308 - data_processor - WARNING - Missing dataset: faculty_info.csv
+2024-11-25 15:44:20,309 - data_processor - WARNING - Missing dataset: key_features.csv
+2024-11-25 15:44:20,312 - data_processor - WARNING - Missing dataset: research_and_publications.csv
+2024-11-25 15:44:20,316 - data_processor - WARNING - Missing dataset: student_services.csv
+2024-11-25 15:44:20,317 - data_processor - INFO - Validating datasets...
+2024-11-25 15:44:20,318 - data_processor - ERROR - Missing dataset: basic_info
+2024-11-25 15:44:20,326 - data_processor - INFO - Loaded knowledge base from cache
+2024-11-25 15:44:20,329 - data_processor - INFO - Preparing training data...
+2024-11-25 15:44:20,331 - data_processor - INFO - Loaded knowledge base from cache
+2024-11-25 15:44:20,331 - data_processor - ERROR - Error preparing training data: You should supply an encoding or a list of encodings to this method that includes input_ids, but you provided []
+2024-11-25 15:46:03,084 - data_processor - INFO - Loading datasets...
+2024-11-25 15:46:03,086 - data_processor - WARNING - Missing dataset: university_basic_info.csv
+2024-11-25 15:46:03,087 - data_processor - WARNING - Missing dataset: programs_and_courses.csv
+2024-11-25 15:46:03,095 - data_processor - WARNING - Missing dataset: facilities.csv
+2024-11-25 15:46:03,096 - data_processor - WARNING - Missing dataset: accreditations_partnerships.csv
+2024-11-25 15:46:03,099 - data_processor - WARNING - Missing dataset: faculties_programs.csv
+2024-11-25 15:46:03,102 - data_processor - WARNING - Missing dataset: events_and_news.csv
+2024-11-25 15:46:03,109 - data_processor - WARNING - Missing dataset: faculty_info.csv
+2024-11-25 15:46:03,114 - data_processor - WARNING - Missing dataset: key_features.csv
+2024-11-25 15:46:03,116 - data_processor - WARNING - Missing dataset: research_and_publications.csv
+2024-11-25 15:46:03,119 - data_processor - WARNING - Missing dataset: student_services.csv
+2024-11-25 15:46:03,121 - data_processor - INFO - Validating datasets...
+2024-11-25 15:46:03,121 - data_processor - ERROR - Missing dataset: basic_info
+2024-11-25 15:46:03,128 - data_processor - INFO - Loaded knowledge base from cache
+2024-11-25 15:46:03,132 - data_processor - INFO - Preparing training data...
+2024-11-25 15:46:03,135 - data_processor - INFO - Loaded knowledge base from cache
+2024-11-25 15:46:03,137 - data_processor - ERROR - Error preparing training data: You should supply an encoding or a list of encodings to this method that includes input_ids, but you provided []
+2024-11-25 15:46:54,545 - data_processor - INFO - Loading datasets...
+2024-11-25 15:46:54,547 - data_processor - WARNING - Missing dataset: university_basic_info.csv
+2024-11-25 15:46:54,550 - data_processor - WARNING - Missing dataset: programs_and_courses.csv
+2024-11-25 15:46:54,551 - data_processor - WARNING - Missing dataset: facilities.csv
+2024-11-25 15:46:54,553 - data_processor - WARNING - Missing dataset: accreditations_partnerships.csv
+2024-11-25 15:46:54,556 - data_processor - WARNING - Missing dataset: faculties_programs.csv
+2024-11-25 15:46:54,559 - data_processor - WARNING - Missing dataset: events_and_news.csv
+2024-11-25 15:46:54,564 - data_processor - WARNING - Missing dataset: faculty_info.csv
+2024-11-25 15:46:54,567 - data_processor - WARNING - Missing dataset: key_features.csv
+2024-11-25 15:46:54,568 - data_processor - WARNING - Missing dataset: research_and_publications.csv
+2024-11-25 15:46:54,571 - data_processor - WARNING - Missing dataset: student_services.csv
+2024-11-25 15:46:54,573 - data_processor - INFO - Validating datasets...
+2024-11-25 15:46:54,574 - data_processor - ERROR - Missing dataset: basic_info
+2024-11-25 15:46:54,577 - data_processor - INFO - Loaded knowledge base from cache
+2024-11-25 15:46:54,584 - data_processor - INFO - Preparing training data...
+2024-11-25 15:46:54,586 - data_processor - INFO - Loaded knowledge base from cache
+2024-11-25 15:46:54,588 - data_processor - ERROR - Error preparing training data: You should supply an encoding or a list of encodings to this method that includes input_ids, but you provided []
+2024-11-25 15:49:42,690 - data_processor - INFO - Loading datasets...
+2024-11-25 15:49:42,691 - data_processor - WARNING - Missing dataset: university_basic_info.csv
+2024-11-25 15:49:42,693 - data_processor - WARNING - Missing dataset: programs_and_courses.csv
+2024-11-25 15:49:42,695 - data_processor - WARNING - Missing dataset: facilities.csv
+2024-11-25 15:49:42,697 - data_processor - WARNING - Missing dataset: accreditations_partnerships.csv
+2024-11-25 15:49:42,701 - data_processor - WARNING - Missing dataset: faculties_programs.csv
+2024-11-25 15:49:42,703 - data_processor - WARNING - Missing dataset: events_and_news.csv
+2024-11-25 15:49:42,706 - data_processor - WARNING - Missing dataset: faculty_info.csv
+2024-11-25 15:49:42,709 - data_processor - WARNING - Missing dataset: key_features.csv
+2024-11-25 15:49:42,716 - data_processor - WARNING - Missing dataset: research_and_publications.csv
+2024-11-25 15:49:42,719 - data_processor - WARNING - Missing dataset: student_services.csv
+2024-11-25 15:49:42,726 - data_processor - INFO - Validating datasets...
+2024-11-25 15:49:42,727 - data_processor - ERROR - Missing dataset: basic_info
+2024-11-25 15:49:42,729 - data_processor - INFO - Loaded knowledge base from cache
+2024-11-25 15:49:42,733 - data_processor - INFO - Preparing training data...
+2024-11-25 15:49:42,735 - data_processor - INFO - Loaded knowledge base from cache
+2024-11-25 15:49:42,736 - data_processor - ERROR - Error preparing training data: You should supply an encoding or a list of encodings to this method that includes input_ids, but you provided []
+2024-11-25 15:51:00,523 - data_processor - INFO - Loading datasets...
+2024-11-25 15:51:00,524 - data_processor - ERROR - Error loading datasets: unsupported operand type(s) for /: 'NoneType' and 'str'
+2024-11-25 15:51:50,897 - data_processor - INFO - Loading datasets...
+2024-11-25 15:51:50,898 - data_processor - ERROR - Error loading datasets: unsupported operand type(s) for /: 'str' and 'str'
+2024-11-25 15:53:28,406 - data_processor - INFO - Loading datasets...
+2024-11-25 15:53:28,583 - data_processor - INFO - Loaded and processed university_basic_info.csv
+2024-11-25 15:53:28,621 - data_processor - INFO - Loaded and processed programs_and_courses.csv
+2024-11-25 15:53:28,647 - data_processor - INFO - Loaded and processed facilities.csv
+2024-11-25 15:53:28,676 - data_processor - INFO - Loaded and processed accreditations_partnerships.csv
+2024-11-25 15:53:28,699 - data_processor - INFO - Loaded and processed faculties_programs.csv
+2024-11-25 15:53:28,729 - data_processor - INFO - Loaded and processed events_and_news.csv
+2024-11-25 15:53:28,803 - data_processor - INFO - Loaded and processed faculty_info.csv
+2024-11-25 15:53:28,817 - data_processor - INFO - Loaded and processed key_features.csv
+2024-11-25 15:53:28,849 - data_processor - ERROR - Error loading datasets: 'publication_date'
+2024-11-25 15:56:04,444 - data_processor - INFO - Loading datasets...
+2024-11-25 15:56:04,712 - data_processor - INFO - Loaded university_basic_info.csv from cache
+2024-11-25 15:56:04,724 - data_processor - INFO - Loaded programs_and_courses.csv from cache
+2024-11-25 15:56:04,739 - data_processor - INFO - Loaded facilities.csv from cache
+2024-11-25 15:56:04,756 - data_processor - INFO - Loaded accreditations_partnerships.csv from cache
+2024-11-25 15:56:04,774 - data_processor - INFO - Loaded faculties_programs.csv from cache
+2024-11-25 15:56:04,793 - data_processor - INFO - Loaded events_and_news.csv from cache
+2024-11-25 15:56:04,807 - data_processor - INFO - Loaded faculty_info.csv from cache
+2024-11-25 15:56:04,820 - data_processor - INFO - Loaded key_features.csv from cache
+2024-11-25 15:56:04,874 - data_processor - INFO - Loaded and processed research_and_publications.csv
+2024-11-25 15:56:04,885 - data_processor - INFO - Loaded and processed student_services.csv
+2024-11-25 15:56:04,907 - data_processor - INFO - Validating datasets...
+2024-11-25 15:56:04,922 - data_processor - ERROR - Invalid values in programs.level: ['Bachelor Of Science (Honours)' 'Bachelor Of Science' 'Master Of Science']
+2024-11-25 15:56:04,924 - data_processor - INFO - Creating knowledge base...
+2024-11-25 15:56:04,941 - data_processor - ERROR - Error creating knowledge base: 'author'

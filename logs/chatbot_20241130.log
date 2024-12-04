@@ -1,0 +1,1283 @@
+2024-11-30 14:03:12,557 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:03:12,986 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:03:13,017 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:05:32,573 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:05:32,867 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:05:32,887 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:06:30,315 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:06:30,738 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:06:30,757 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:08:52,864 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:08:53,145 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:08:53,163 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:08:54,015 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:08:54,015 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:09:05,576 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:09:05,576 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:09:20,038 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:09:20,038 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:09:34,948 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:09:34,948 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:09:49,310 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:09:49,316 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:09:59,112 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:09:59,113 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:11:05,584 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:11:05,876 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:11:05,893 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:11:06,534 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:11:06,534 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:11:12,057 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:11:12,058 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:11:15,418 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:11:15,418 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:11:18,495 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:11:18,495 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:11:21,763 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:11:21,763 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:11:24,727 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:11:24,727 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:14:36,692 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:14:36,817 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:14:36,823 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:14:36,909 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:14:36,910 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:14:38,262 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:14:38,262 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:14:39,677 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:14:39,677 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:14:40,638 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:14:40,638 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:14:41,521 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:14:41,521 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:14:42,568 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:14:42,570 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:16:08,540 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:16:08,677 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:16:08,680 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:16:08,765 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:16:08,765 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:16:10,078 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:16:10,094 - chatbot - INFO - Confidence score: 0.33684593439102173
+2024-11-30 14:16:12,305 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:16:12,306 - chatbot - INFO - Confidence score: 0.5803157687187195
+2024-11-30 14:16:14,175 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:16:14,175 - chatbot - INFO - Confidence score: 0.37097734212875366
+2024-11-30 14:16:17,424 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:16:17,424 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:16:18,458 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:16:18,458 - chatbot - INFO - Confidence score: 0.3975696563720703
+2024-11-30 14:16:22,685 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:16:22,685 - chatbot - INFO - Confidence score: 0.7525242567062378
+2024-11-30 14:16:25,773 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:16:25,773 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:16:28,229 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:16:28,229 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:16:29,235 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:16:29,243 - chatbot - INFO - Confidence score: 0.8233900666236877
+2024-11-30 14:16:34,222 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:16:34,222 - chatbot - INFO - Confidence score: 0.8671576976776123
+2024-11-30 14:16:37,260 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:16:37,260 - chatbot - INFO - Confidence score: 0.768369197845459
+2024-11-30 14:16:39,783 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:16:39,783 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:16:40,903 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:16:40,903 - chatbot - INFO - Confidence score: 0.3921028971672058
+2024-11-30 14:16:44,528 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:16:44,528 - chatbot - INFO - Confidence score: 0.4904271364212036
+2024-11-30 14:16:47,625 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:16:47,625 - chatbot - INFO - Confidence score: 0.3166660666465759
+2024-11-30 14:16:49,965 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:16:49,965 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:16:55,563 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:16:55,566 - chatbot - INFO - Confidence score: 0.3512529134750366
+2024-11-30 14:16:58,867 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:16:58,867 - chatbot - INFO - Confidence score: 0.448493629693985
+2024-11-30 14:17:02,534 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:17:02,534 - chatbot - INFO - Confidence score: 0.3084465265274048
+2024-11-30 14:17:07,150 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:17:07,150 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:17:08,382 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:17:08,382 - chatbot - INFO - Confidence score: 0.34355223178863525
+2024-11-30 14:17:12,165 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:17:12,165 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:17:16,623 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:17:16,623 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:18:07,764 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:18:07,882 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:18:07,886 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:18:07,948 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:18:07,948 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:18:09,302 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:18:09,302 - chatbot - INFO - Confidence score: 0.33684593439102173
+2024-11-30 14:18:10,500 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:18:10,501 - chatbot - INFO - Confidence score: 0.5803157687187195
+2024-11-30 14:18:11,836 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:18:11,836 - chatbot - INFO - Confidence score: 0.37097734212875366
+2024-11-30 14:18:13,090 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:18:13,090 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:18:14,339 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:18:14,339 - chatbot - INFO - Confidence score: 0.3975696563720703
+2024-11-30 14:18:15,501 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:18:15,501 - chatbot - INFO - Confidence score: 0.7525242567062378
+2024-11-30 14:18:16,589 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:18:16,589 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:18:17,875 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:18:17,876 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:18:19,209 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:18:19,209 - chatbot - INFO - Confidence score: 0.8233900666236877
+2024-11-30 14:18:28,007 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:18:28,007 - chatbot - INFO - Confidence score: 0.8671576976776123
+2024-11-30 14:18:28,972 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:18:28,972 - chatbot - INFO - Confidence score: 0.768369197845459
+2024-11-30 14:18:29,824 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:18:29,824 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:18:30,962 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:18:30,962 - chatbot - INFO - Confidence score: 0.3921028971672058
+2024-11-30 14:18:31,936 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:18:31,936 - chatbot - INFO - Confidence score: 0.4904271364212036
+2024-11-30 14:18:33,218 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:18:33,218 - chatbot - INFO - Confidence score: 0.3166660666465759
+2024-11-30 14:18:35,868 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:18:35,873 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:18:37,397 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:18:37,397 - chatbot - INFO - Confidence score: 0.3512529134750366
+2024-11-30 14:18:38,629 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:18:38,629 - chatbot - INFO - Confidence score: 0.448493629693985
+2024-11-30 14:18:39,566 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:18:39,566 - chatbot - INFO - Confidence score: 0.3084465265274048
+2024-11-30 14:18:42,834 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:18:42,834 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:18:44,079 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:18:44,079 - chatbot - INFO - Confidence score: 0.34355223178863525
+2024-11-30 14:18:45,031 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:18:45,032 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:18:46,066 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:18:46,066 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:21:09,070 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:21:09,189 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:21:09,196 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:21:09,267 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:21:09,268 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:21:10,247 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:21:10,247 - chatbot - INFO - Confidence score: 0.3222334384918213
+2024-11-30 14:21:12,358 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:21:12,358 - chatbot - INFO - Confidence score: 0.5803157687187195
+2024-11-30 14:21:13,188 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:21:13,188 - chatbot - INFO - Confidence score: 0.37097734212875366
+2024-11-30 14:21:13,961 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:21:13,961 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:21:14,835 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:21:14,835 - chatbot - INFO - Confidence score: 0.40337076783180237
+2024-11-30 14:21:17,949 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:21:17,949 - chatbot - INFO - Confidence score: 0.7525242567062378
+2024-11-30 14:21:18,885 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:21:18,885 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:21:19,779 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:21:19,780 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:21:20,867 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:21:20,867 - chatbot - INFO - Confidence score: 0.8233900666236877
+2024-11-30 14:21:23,849 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:21:23,849 - chatbot - INFO - Confidence score: 0.8671576976776123
+2024-11-30 14:21:24,931 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:21:24,931 - chatbot - INFO - Confidence score: 0.768369197845459
+2024-11-30 14:21:26,191 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:21:26,191 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:21:27,271 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:21:27,271 - chatbot - INFO - Confidence score: 0.3684723973274231
+2024-11-30 14:21:30,539 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:21:30,539 - chatbot - INFO - Confidence score: 0.4904271364212036
+2024-11-30 14:21:31,576 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:21:31,576 - chatbot - INFO - Confidence score: 0.3166660666465759
+2024-11-30 14:21:32,769 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:21:32,769 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:21:33,868 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:21:33,868 - chatbot - INFO - Confidence score: 0.3554847836494446
+2024-11-30 14:21:37,504 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:21:37,504 - chatbot - INFO - Confidence score: 0.448493629693985
+2024-11-30 14:21:38,614 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:21:38,614 - chatbot - INFO - Confidence score: 0.3084465265274048
+2024-11-30 14:21:39,766 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:21:39,766 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:21:40,730 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:21:40,730 - chatbot - INFO - Confidence score: 0.34729450941085815
+2024-11-30 14:22:09,343 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:22:09,483 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:22:09,488 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:22:09,552 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:22:09,552 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:22:10,454 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:22:10,454 - chatbot - INFO - Confidence score: 0.3222334384918213
+2024-11-30 14:22:11,364 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:22:11,365 - chatbot - INFO - Confidence score: 0.5803157687187195
+2024-11-30 14:22:12,287 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:22:12,287 - chatbot - INFO - Confidence score: 0.37097734212875366
+2024-11-30 14:22:13,111 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:22:13,111 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:22:13,999 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:22:13,999 - chatbot - INFO - Confidence score: 0.40337076783180237
+2024-11-30 14:22:15,093 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:22:15,093 - chatbot - INFO - Confidence score: 0.7525242567062378
+2024-11-30 14:22:16,014 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:22:16,014 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:22:16,844 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:22:16,844 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:22:17,828 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:22:17,828 - chatbot - INFO - Confidence score: 0.8233900666236877
+2024-11-30 14:22:18,739 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:22:18,739 - chatbot - INFO - Confidence score: 0.8671576976776123
+2024-11-30 14:22:19,755 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:22:19,755 - chatbot - INFO - Confidence score: 0.768369197845459
+2024-11-30 14:22:20,600 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:22:20,601 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:22:21,526 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:22:21,526 - chatbot - INFO - Confidence score: 0.3684723973274231
+2024-11-30 14:22:22,445 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:22:22,445 - chatbot - INFO - Confidence score: 0.4904271364212036
+2024-11-30 14:22:23,378 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:22:23,378 - chatbot - INFO - Confidence score: 0.3166660666465759
+2024-11-30 14:22:24,210 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:22:24,211 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:22:25,087 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:22:25,087 - chatbot - INFO - Confidence score: 0.3554847836494446
+2024-11-30 14:22:26,020 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:22:26,020 - chatbot - INFO - Confidence score: 0.448493629693985
+2024-11-30 14:22:26,900 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:22:26,900 - chatbot - INFO - Confidence score: 0.3084465265274048
+2024-11-30 14:22:27,921 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:22:27,921 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:22:28,890 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:22:28,890 - chatbot - INFO - Confidence score: 0.34729450941085815
+2024-11-30 14:22:29,815 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:22:29,815 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:22:30,764 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:22:30,764 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:23:30,652 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:23:30,760 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:23:30,767 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:23:30,826 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:23:30,826 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:23:31,686 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:23:31,686 - chatbot - INFO - Confidence score: 0.3222334384918213
+2024-11-30 14:23:32,540 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:23:32,540 - chatbot - INFO - Confidence score: 0.5803157687187195
+2024-11-30 14:23:33,372 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:23:33,372 - chatbot - INFO - Confidence score: 0.37097734212875366
+2024-11-30 14:23:34,176 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:23:34,176 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:23:35,023 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:23:35,023 - chatbot - INFO - Confidence score: 0.40337076783180237
+2024-11-30 14:23:35,885 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:23:35,885 - chatbot - INFO - Confidence score: 0.7525242567062378
+2024-11-30 14:23:36,725 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:23:36,725 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:23:37,575 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:23:37,576 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:23:38,661 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:23:38,661 - chatbot - INFO - Confidence score: 0.8233900666236877
+2024-11-30 14:23:39,549 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:23:39,549 - chatbot - INFO - Confidence score: 0.8671576976776123
+2024-11-30 14:23:40,447 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:23:40,447 - chatbot - INFO - Confidence score: 0.768369197845459
+2024-11-30 14:23:41,349 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:23:41,349 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:23:42,280 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:23:42,280 - chatbot - INFO - Confidence score: 0.3684723973274231
+2024-11-30 14:23:43,165 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:23:43,165 - chatbot - INFO - Confidence score: 0.4904271364212036
+2024-11-30 14:23:44,075 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:23:44,076 - chatbot - INFO - Confidence score: 0.3166660666465759
+2024-11-30 14:23:44,931 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:23:44,931 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:23:46,022 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:23:46,022 - chatbot - INFO - Confidence score: 0.3554847836494446
+2024-11-30 14:23:46,891 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:23:46,891 - chatbot - INFO - Confidence score: 0.448493629693985
+2024-11-30 14:23:47,741 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:23:47,741 - chatbot - INFO - Confidence score: 0.3084465265274048
+2024-11-30 14:23:48,528 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:23:48,529 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:23:49,390 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:23:49,390 - chatbot - INFO - Confidence score: 0.34729450941085815
+2024-11-30 14:23:50,232 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:23:50,232 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:23:51,192 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:23:51,193 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:27:05,323 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:27:05,434 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:27:05,438 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:27:05,506 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:27:05,506 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:27:06,431 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:27:06,431 - chatbot - INFO - Confidence score: 0.38273024559020996
+2024-11-30 14:28:13,555 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:28:13,665 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:28:13,669 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:28:13,738 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:28:13,739 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:28:14,683 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:28:14,683 - chatbot - INFO - Confidence score: 0.38273024559020996
+2024-11-30 14:28:15,589 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:28:15,589 - chatbot - INFO - Confidence score: 0.5803157687187195
+2024-11-30 14:28:16,378 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:28:16,378 - chatbot - INFO - Confidence score: 0.37097734212875366
+2024-11-30 14:28:17,165 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:28:17,165 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:28:18,032 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:28:18,032 - chatbot - INFO - Confidence score: 0.3344140648841858
+2024-11-30 14:28:19,800 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:28:19,801 - chatbot - INFO - Confidence score: 0.7525242567062378
+2024-11-30 14:28:20,680 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:28:20,681 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:28:21,491 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:28:21,491 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:28:22,372 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:28:22,372 - chatbot - INFO - Confidence score: 0.8304418325424194
+2024-11-30 14:28:24,239 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:28:24,239 - chatbot - INFO - Confidence score: 0.8671576976776123
+2024-11-30 14:28:25,331 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:28:25,346 - chatbot - INFO - Confidence score: 0.768369197845459
+2024-11-30 14:28:26,216 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:28:26,216 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:28:27,102 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:28:27,102 - chatbot - INFO - Confidence score: 0.3263028562068939
+2024-11-30 14:28:28,912 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:28:28,912 - chatbot - INFO - Confidence score: 0.4904271364212036
+2024-11-30 14:28:29,828 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:28:29,828 - chatbot - INFO - Confidence score: 0.3166660666465759
+2024-11-30 14:28:30,699 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:28:30,701 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:28:31,624 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:28:31,624 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:28:33,437 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:28:33,438 - chatbot - INFO - Confidence score: 0.448493629693985
+2024-11-30 14:28:34,356 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:28:34,387 - chatbot - INFO - Confidence score: 0.3084465265274048
+2024-11-30 14:28:35,243 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:28:35,245 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:28:36,155 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:28:36,155 - chatbot - INFO - Confidence score: 0.3431343138217926
+2024-11-30 14:28:37,963 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:28:37,963 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:28:38,870 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:28:38,870 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:29:44,076 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:29:44,203 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:29:44,210 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:29:44,279 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:29:44,280 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:29:45,629 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:29:45,629 - chatbot - INFO - Confidence score: 0.38273024559020996
+2024-11-30 14:29:46,639 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:29:46,639 - chatbot - INFO - Confidence score: 0.5803157687187195
+2024-11-30 14:29:47,749 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:29:47,749 - chatbot - INFO - Confidence score: 0.37097734212875366
+2024-11-30 14:29:48,627 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:29:48,627 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:29:49,550 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:29:49,550 - chatbot - INFO - Confidence score: 0.3344140648841858
+2024-11-30 14:29:50,488 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:29:50,488 - chatbot - INFO - Confidence score: 0.7525242567062378
+2024-11-30 14:29:51,402 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:29:51,403 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:29:52,213 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:29:52,214 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:29:53,108 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:29:53,109 - chatbot - INFO - Confidence score: 0.8304418325424194
+2024-11-30 14:29:54,141 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:29:54,141 - chatbot - INFO - Confidence score: 0.8671576976776123
+2024-11-30 14:29:55,128 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:29:55,128 - chatbot - INFO - Confidence score: 0.768369197845459
+2024-11-30 14:29:56,115 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:29:56,130 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:29:57,228 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:29:57,228 - chatbot - INFO - Confidence score: 0.3263028562068939
+2024-11-30 14:29:58,295 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:29:58,295 - chatbot - INFO - Confidence score: 0.4904271364212036
+2024-11-30 14:29:59,261 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:29:59,261 - chatbot - INFO - Confidence score: 0.3166660666465759
+2024-11-30 14:30:00,075 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:30:00,077 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:30:00,972 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:30:00,972 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:30:01,868 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:30:01,884 - chatbot - INFO - Confidence score: 0.448493629693985
+2024-11-30 14:30:02,775 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:30:02,775 - chatbot - INFO - Confidence score: 0.3084465265274048
+2024-11-30 14:30:03,717 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:30:03,717 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:30:04,668 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:30:04,668 - chatbot - INFO - Confidence score: 0.3431343138217926
+2024-11-30 14:30:05,499 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:30:05,499 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:30:06,400 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:30:06,400 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:31:31,772 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:31:31,874 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:31:31,881 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:31:31,947 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:31:31,948 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:31:33,243 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:31:33,243 - chatbot - INFO - Confidence score: 0.38273024559020996
+2024-11-30 14:31:34,167 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:31:34,167 - chatbot - INFO - Confidence score: 0.5803157687187195
+2024-11-30 14:31:35,027 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:31:35,027 - chatbot - INFO - Confidence score: 0.364253968000412
+2024-11-30 14:31:37,327 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:31:37,328 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:31:38,150 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:31:38,150 - chatbot - INFO - Confidence score: 0.3344140648841858
+2024-11-30 14:31:39,012 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:31:39,012 - chatbot - INFO - Confidence score: 0.7525242567062378
+2024-11-30 14:31:39,819 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:31:39,819 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:31:42,010 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:31:42,012 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:31:43,054 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:31:43,054 - chatbot - INFO - Confidence score: 0.8304418325424194
+2024-11-30 14:31:43,962 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:31:43,962 - chatbot - INFO - Confidence score: 0.8671576976776123
+2024-11-30 14:31:44,912 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:31:44,912 - chatbot - INFO - Confidence score: 0.7612970471382141
+2024-11-30 14:31:50,568 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:31:50,568 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:31:54,672 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:31:54,673 - chatbot - INFO - Confidence score: 0.3263028562068939
+2024-11-30 14:32:07,526 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:32:07,526 - chatbot - INFO - Confidence score: 0.4904271364212036
+2024-11-30 14:32:12,046 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:32:12,055 - chatbot - INFO - Confidence score: 0.3070664405822754
+2024-11-30 14:32:29,254 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:32:29,265 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:32:45,624 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:32:45,624 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:32:47,887 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:32:47,888 - chatbot - INFO - Confidence score: 0.448493629693985
+2024-11-30 14:32:54,313 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:32:54,313 - chatbot - INFO - Confidence score: 0.3034205734729767
+2024-11-30 14:32:59,348 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:32:59,348 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:33:01,024 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:33:01,040 - chatbot - INFO - Confidence score: 0.3431343138217926
+2024-11-30 14:33:03,564 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:33:03,564 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:33:33,936 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:33:34,061 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:33:34,067 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:33:34,130 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:33:34,130 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:33:34,950 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:33:34,950 - chatbot - INFO - Confidence score: 0.38273024559020996
+2024-11-30 14:33:38,145 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:33:38,145 - chatbot - INFO - Confidence score: 0.5803157687187195
+2024-11-30 14:33:39,304 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:33:39,304 - chatbot - INFO - Confidence score: 0.364253968000412
+2024-11-30 14:33:40,175 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:33:40,175 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:33:41,042 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:33:41,057 - chatbot - INFO - Confidence score: 0.3344140648841858
+2024-11-30 14:33:42,837 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:33:42,838 - chatbot - INFO - Confidence score: 0.7525242567062378
+2024-11-30 14:33:45,440 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:33:45,441 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:33:47,780 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:33:47,782 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:33:49,457 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:33:49,457 - chatbot - INFO - Confidence score: 0.8304418325424194
+2024-11-30 14:33:51,167 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:33:51,167 - chatbot - INFO - Confidence score: 0.8671576976776123
+2024-11-30 14:33:52,514 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:33:52,514 - chatbot - INFO - Confidence score: 0.7612970471382141
+2024-11-30 14:33:54,509 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:33:54,509 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:33:56,083 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:33:56,083 - chatbot - INFO - Confidence score: 0.3263028562068939
+2024-11-30 14:33:57,245 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:33:57,245 - chatbot - INFO - Confidence score: 0.4904271364212036
+2024-11-30 14:33:58,348 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:33:58,348 - chatbot - INFO - Confidence score: 0.3070664405822754
+2024-11-30 14:33:59,361 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:33:59,361 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:34:00,520 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:34:00,520 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:34:01,478 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:34:01,478 - chatbot - INFO - Confidence score: 0.448493629693985
+2024-11-30 14:34:02,278 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:34:02,279 - chatbot - INFO - Confidence score: 0.3034205734729767
+2024-11-30 14:34:03,069 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:34:03,069 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:34:03,904 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:34:03,905 - chatbot - INFO - Confidence score: 0.3431343138217926
+2024-11-30 14:34:04,748 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:34:04,749 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:34:05,652 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:34:05,652 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:38:30,696 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:38:30,812 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:38:30,815 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:38:30,884 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:38:30,884 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:38:32,092 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:38:32,092 - chatbot - INFO - Confidence score: 0.3701474368572235
+2024-11-30 14:38:34,002 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:38:34,002 - chatbot - INFO - Confidence score: 0.509331226348877
+2024-11-30 14:38:35,473 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:38:35,473 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:38:36,902 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:38:36,902 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:38:37,763 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:38:37,763 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:38:39,549 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:38:39,549 - chatbot - INFO - Confidence score: 0.5953000783920288
+2024-11-30 14:38:42,207 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:38:42,207 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:38:44,562 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:38:44,578 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:38:45,443 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:38:45,443 - chatbot - INFO - Confidence score: 0.6808469295501709
+2024-11-30 14:38:47,693 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:38:47,693 - chatbot - INFO - Confidence score: 0.7264595031738281
+2024-11-30 14:38:49,629 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:38:49,629 - chatbot - INFO - Confidence score: 0.7191759347915649
+2024-11-30 14:38:51,269 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:38:51,269 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:38:52,088 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:38:52,088 - chatbot - INFO - Confidence score: 0.44474202394485474
+2024-11-30 14:38:54,103 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:38:54,103 - chatbot - INFO - Confidence score: 0.5075421333312988
+2024-11-30 14:38:55,960 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:38:55,960 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:39:00,148 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:39:00,148 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:39:01,074 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:39:01,074 - chatbot - INFO - Confidence score: 0.30564767122268677
+2024-11-30 14:39:02,936 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:39:02,936 - chatbot - INFO - Confidence score: 0.4745640754699707
+2024-11-30 14:39:04,462 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:39:04,462 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:39:06,008 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:39:06,009 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:39:07,224 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:39:07,224 - chatbot - INFO - Confidence score: 0.36914384365081787
+2024-11-30 14:39:10,277 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:39:10,277 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:39:12,459 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:39:12,459 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:46:22,281 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:46:22,400 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:46:22,405 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:46:22,475 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:46:22,475 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:46:23,564 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:46:23,564 - chatbot - INFO - Confidence score: 0.3701474368572235
+2024-11-30 14:46:24,429 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:46:24,429 - chatbot - INFO - Confidence score: 0.509331226348877
+2024-11-30 14:46:25,319 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:46:25,319 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:46:26,116 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:46:26,116 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:46:26,965 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:46:26,965 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:46:27,857 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:46:27,857 - chatbot - INFO - Confidence score: 0.5953000783920288
+2024-11-30 14:46:28,749 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:46:28,749 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:46:29,669 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:46:29,683 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:46:30,525 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:46:30,525 - chatbot - INFO - Confidence score: 0.6808469295501709
+2024-11-30 14:46:31,354 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:46:31,354 - chatbot - INFO - Confidence score: 0.7264595031738281
+2024-11-30 14:46:32,620 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:46:32,620 - chatbot - INFO - Confidence score: 0.7191759347915649
+2024-11-30 14:46:33,410 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:46:33,410 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:46:34,296 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:46:34,296 - chatbot - INFO - Confidence score: 0.44474202394485474
+2024-11-30 14:46:35,176 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:46:35,176 - chatbot - INFO - Confidence score: 0.5075421333312988
+2024-11-30 14:46:36,074 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:46:36,074 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:46:36,896 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:46:36,896 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:46:37,689 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:46:37,689 - chatbot - INFO - Confidence score: 0.30564767122268677
+2024-11-30 14:46:38,572 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:46:38,572 - chatbot - INFO - Confidence score: 0.4745640754699707
+2024-11-30 14:46:39,443 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:46:39,443 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:46:45,825 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:46:45,826 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:46:46,676 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:46:46,676 - chatbot - INFO - Confidence score: 0.36914384365081787
+2024-11-30 14:46:47,554 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:46:47,555 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:46:48,383 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:46:48,383 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:48:39,071 - chatbot - INFO - Loading knowledge base...
+2024-11-30 14:48:39,192 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 14:48:39,200 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 14:48:39,270 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:48:39,271 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-30 14:48:40,315 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:48:40,315 - chatbot - INFO - Confidence score: 0.3701474368572235
+2024-11-30 14:48:41,171 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:48:41,171 - chatbot - INFO - Confidence score: 0.509331226348877
+2024-11-30 14:48:42,096 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:48:42,096 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:48:42,889 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:48:42,889 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-30 14:48:43,715 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:48:43,715 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:48:44,586 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:48:44,586 - chatbot - INFO - Confidence score: 0.5953000783920288
+2024-11-30 14:48:45,464 - chatbot - INFO - Query type identified as: faculty
+2024-11-30 14:48:45,464 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:48:46,278 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:48:46,278 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-30 14:48:47,157 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:48:47,157 - chatbot - INFO - Confidence score: 0.6808469295501709
+2024-11-30 14:48:48,053 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:48:48,053 - chatbot - INFO - Confidence score: 0.7264595031738281
+2024-11-30 14:48:48,944 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:48:48,944 - chatbot - INFO - Confidence score: 0.7191759347915649
+2024-11-30 14:48:49,725 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:48:49,725 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-30 14:48:50,666 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:48:50,668 - chatbot - INFO - Confidence score: 0.44474202394485474
+2024-11-30 14:48:51,760 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:48:51,760 - chatbot - INFO - Confidence score: 0.5075421333312988
+2024-11-30 14:48:52,578 - chatbot - INFO - Query type identified as: facility
+2024-11-30 14:48:52,578 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:48:53,387 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:48:53,388 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-30 14:48:54,199 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:48:54,199 - chatbot - INFO - Confidence score: 0.30564767122268677
+2024-11-30 14:48:55,089 - chatbot - INFO - Query type identified as: location
+2024-11-30 14:48:55,090 - chatbot - INFO - Confidence score: 0.4745640754699707
+2024-11-30 14:48:55,956 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:48:55,956 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:48:56,797 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:48:56,797 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:48:57,605 - chatbot - INFO - Query type identified as: admission
+2024-11-30 14:48:57,605 - chatbot - INFO - Confidence score: 0.36914384365081787
+2024-11-30 14:48:58,377 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:48:58,377 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 14:48:59,197 - chatbot - INFO - Query type identified as: general
+2024-11-30 14:48:59,197 - chatbot - INFO - Confidence score: 0.0
+2024-11-30 15:11:21,263 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:11:21,379 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:11:21,383 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:14:46,073 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:14:46,207 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:14:46,211 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:17:29,817 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:17:29,935 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:17:29,938 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:29:49,797 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:29:49,908 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:29:49,912 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:31:52,230 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:31:52,365 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:31:52,372 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:36:14,131 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:36:14,236 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:36:14,246 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:46:20,778 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:46:20,887 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:46:20,893 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:47:23,716 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:47:23,826 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:47:23,832 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:51:56,180 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:51:56,299 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:51:56,302 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:58:20,937 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:58:21,091 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:58:21,094 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:59:00,354 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:59:00,354 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:59:00,442 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:59:00,442 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:59:00,451 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:59:00,451 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:59:01,610 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:01,610 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:04,035 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:04,035 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:05,158 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:05,158 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:06,393 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:06,393 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:08,218 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:08,218 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:09,202 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:09,202 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:10,064 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:10,064 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:16,118 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:16,118 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:17,986 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:17,986 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:18,966 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:18,966 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:21,032 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:21,032 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:21,952 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:21,952 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:24,564 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:24,564 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:27,892 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:27,892 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:29,356 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:29,356 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:30,395 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:30,395 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:31,210 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:31,210 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:32,114 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:32,114 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:33,989 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:33,989 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:35,973 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:35,973 - chatbot - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:42,277 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:59:42,277 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:59:42,277 - chatbot - INFO - Loading knowledge base...
+2024-11-30 15:59:42,356 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:59:42,356 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:59:42,356 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 15:59:42,356 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:59:42,356 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 15:59:42,356 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:00:15,998 - chatbot - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:15,998 - chatbot - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:15,998 - chatbot - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:27,251 - chatbot - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:27,251 - chatbot - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:27,251 - chatbot - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:59,399 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:00:59,399 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:00:59,399 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:00:59,399 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:00:59,483 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:00:59,483 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:00:59,483 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:00:59,483 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:00:59,483 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:00:59,483 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:00:59,483 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:00:59,483 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:01:00,536 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:00,536 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:00,536 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:00,536 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:01,881 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:01,881 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:01,881 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:01,881 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:02,939 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:02,939 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:02,939 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:02,939 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:05,487 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:05,487 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:05,487 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:05,487 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:07,038 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:07,038 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:07,038 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:07,038 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:08,539 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:08,539 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:08,539 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:08,539 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:10,527 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:10,527 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:10,527 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:10,527 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:11,613 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:11,613 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:11,613 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:11,613 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:12,787 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:12,787 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:12,787 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:12,787 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:14,241 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:14,241 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:14,241 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:14,241 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:15,566 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:15,566 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:15,566 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:15,566 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:17,342 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:17,342 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:17,342 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:17,342 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:18,439 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:18,439 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:18,439 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:18,439 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:22,302 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:22,302 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:22,302 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:22,302 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:23,277 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:23,277 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:23,277 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:23,277 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:24,426 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:24,426 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:24,426 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:24,426 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:25,319 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:25,319 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:25,319 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:25,319 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:26,378 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:26,378 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:26,378 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:26,378 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:27,537 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:27,537 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:27,537 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:27,537 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:28,589 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:28,589 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:28,589 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:28,589 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:04:16,430 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:04:16,599 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:04:16,613 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:04:39,431 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:04:39,431 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:04:39,529 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:04:39,529 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:04:39,529 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:04:39,529 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:09:09,735 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 16:09:09,735 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 16:10:13,301 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:10:13,407 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:10:13,418 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:11:04,980 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:11:05,092 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:11:05,095 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:11:14,700 - chatbot - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:11:40,597 - chatbot - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:11:53,950 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:11:53,950 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:11:54,012 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:11:54,012 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:11:54,028 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:11:54,028 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:11:54,892 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:54,892 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:55,772 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:55,772 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:56,620 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:56,620 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:57,531 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:57,531 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:58,291 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:58,291 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:59,170 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:59,170 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:00,067 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:00,067 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:00,898 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:00,898 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:01,730 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:01,730 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:02,561 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:02,561 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:03,440 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:03,440 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:04,288 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:04,288 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:05,101 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:05,101 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:06,008 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:06,008 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:07,108 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:07,108 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:07,988 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:07,988 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:08,788 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:08,788 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:09,672 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:09,672 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:10,454 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:10,454 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:11,317 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:11,317 - chatbot - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:17:22,104 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:17:22,387 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:17:22,392 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:17:53,706 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:17:53,706 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:17:53,851 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:17:53,851 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:17:53,869 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:17:53,869 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:17:53,952 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:53,952 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,033 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,033 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,085 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,085 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,166 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,166 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,193 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,193 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,282 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,282 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,357 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,357 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,420 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,420 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,455 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,455 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,557 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,557 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,620 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,620 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,683 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,683 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,725 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,725 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,816 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,816 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,883 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,883 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,950 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,950 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,984 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,984 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:55,082 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:55,082 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:55,145 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:55,145 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:55,216 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:55,216 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:18:00,214 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:18:00,214 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:18:00,214 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:18:00,302 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:18:00,302 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:18:00,302 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:18:00,304 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:18:00,304 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:18:00,304 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:18:00,345 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,345 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,345 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,432 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,432 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,432 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,495 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,495 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,495 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,562 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,562 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,562 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,589 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,589 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,589 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,678 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,678 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,678 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,745 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,745 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,745 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,832 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,832 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,832 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,858 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,858 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,858 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,951 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,951 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,951 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,011 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,011 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,011 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,078 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,078 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,078 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,111 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,111 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,111 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,205 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,205 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,205 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,281 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,281 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,281 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,345 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,345 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,345 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,386 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,386 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,386 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,480 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,480 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,480 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,543 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,543 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,543 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,614 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,614 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,614 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:22:25,464 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:22:25,600 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:22:25,610 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:23:23,368 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:23:23,368 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:23:23,446 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:23:23,446 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:23:23,450 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:23:23,450 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:23:23,491 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,491 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,576 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,576 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,643 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,643 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,702 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,702 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,730 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,730 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,818 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,818 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,892 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,892 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,958 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,958 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,983 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,983 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,069 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,069 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,136 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,136 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,193 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,193 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,231 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,231 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,320 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,320 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,397 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,397 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,459 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,459 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,481 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,481 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,575 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,575 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,638 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,638 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,692 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,692 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:28,989 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:23:28,989 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:23:28,989 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:23:29,073 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:23:29,073 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:23:29,073 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:23:29,077 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:23:29,077 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:23:29,077 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:23:29,123 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,123 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,123 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,218 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,218 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,218 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,288 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,288 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,288 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,354 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,354 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,354 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,393 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,393 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,393 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,501 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,501 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,501 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,575 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,575 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,575 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,646 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,646 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,646 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,674 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,674 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,674 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,764 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,764 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,764 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,820 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,820 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,820 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,893 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,893 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,893 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,926 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,926 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,926 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,122 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,122 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,122 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,224 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,224 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,224 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,295 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,295 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,295 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,325 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,325 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,325 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,436 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,436 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,436 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,527 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,527 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,527 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,603 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,603 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,603 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:24:33,037 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:24:33,153 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:24:33,157 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:25:07,503 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:25:07,503 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:25:07,587 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:25:07,587 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:25:07,590 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:25:07,590 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:25:08,726 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:08,726 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:09,761 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:09,761 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:10,841 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:10,841 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:11,671 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:11,671 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:12,634 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:12,634 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:13,584 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:13,584 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:14,538 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:14,538 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:15,462 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:15,462 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:16,362 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:16,362 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:17,264 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:17,264 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:18,488 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:18,488 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:19,539 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:19,539 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:20,396 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:20,396 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:21,510 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:21,510 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:22,452 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:22,452 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:23,405 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:23,405 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:24,367 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:24,367 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:25,279 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:25,279 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:26,211 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:26,211 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:27,109 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:27,109 - chatbot - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:31,363 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:25:31,363 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:25:31,363 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:25:31,434 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:25:31,434 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:25:31,434 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:25:31,442 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:25:31,442 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:25:31,442 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:25:31,507 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,507 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,507 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,594 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,594 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,594 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,639 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,639 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,639 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,728 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,728 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,728 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,758 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,758 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,758 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,843 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,843 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,843 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,906 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,906 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,906 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,050 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,050 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,050 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,080 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,080 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,080 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,168 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,168 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,168 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,222 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,222 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,222 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,289 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,289 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,289 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,326 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,326 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,326 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,443 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,443 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,443 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,524 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,524 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,524 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,585 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,585 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,585 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,614 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,614 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,614 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,708 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,708 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,708 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,756 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,756 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,756 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,825 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,825 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,825 - chatbot - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:27:48,409 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:27:48,522 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:27:48,527 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:30:51,122 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:30:51,234 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:30:51,238 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:34:40,900 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:34:41,020 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:34:41,026 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:45:06,809 - chatbot - INFO - Loading knowledge base...
+2024-11-30 16:45:06,963 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-30 16:45:06,969 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-30 16:45:22,542 - chatbot - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:45:27,299 - chatbot - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2

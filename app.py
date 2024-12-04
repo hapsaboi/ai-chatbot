@@ -5,7 +5,7 @@ import time
 from flask_cors import CORS
 
 # Import chatbot class or functions from the uploaded file
-from university_chatbot import UniversityChatbot  # Adjust this to match the class or main function name
+from chatbot import UniversityChatbot  # Adjust this to match the class or main function name
 
 # Initialize Flask app
 app = Flask(__name__)

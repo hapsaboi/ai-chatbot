@@ -1,0 +1,61 @@
+2024-11-27 09:50:41,174 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-27 09:50:41,635 - model_manager - INFO - Loading embedding model
+2024-11-27 09:50:47,359 - model_manager - INFO - Model initialization complete
+2024-11-27 09:54:41,935 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-27 09:54:42,251 - model_manager - INFO - Loading embedding model
+2024-11-27 09:54:47,667 - model_manager - INFO - Model initialization complete
+2024-11-27 10:10:04,213 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-27 10:10:04,557 - model_manager - INFO - Loading embedding model
+2024-11-27 10:10:09,749 - model_manager - INFO - Model initialization complete
+2024-11-27 10:12:44,443 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-27 10:12:44,706 - model_manager - INFO - Loading embedding model
+2024-11-27 10:12:49,342 - model_manager - INFO - Model initialization complete
+2024-11-27 10:13:59,598 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-27 10:13:59,853 - model_manager - INFO - Loading embedding model
+2024-11-27 10:16:18,356 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-27 10:16:18,605 - model_manager - INFO - Loading embedding model
+2024-11-27 10:16:23,598 - model_manager - INFO - Model initialization complete
+2024-11-27 10:17:47,654 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-27 10:17:47,926 - model_manager - INFO - Loading embedding model
+2024-11-27 10:17:52,277 - model_manager - INFO - Model initialization complete
+2024-11-27 10:21:13,910 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-27 10:21:14,399 - model_manager - INFO - Loading embedding model
+2024-11-27 10:21:20,246 - model_manager - INFO - Model initialization complete
+2024-11-27 11:00:33,500 - model_manager - INFO - Loading chat model
+2024-11-27 11:00:34,848 - model_manager - ERROR - Error initializing models: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2.
+401 Client Error. (Request ID: Root=1-6746edc5-7d94617916170f1e62c562f9;4f111d4f-7efe-456f-a179-27081385d975)
+
+Cannot access gated repo for url https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json.
+Access to model mistralai/Mistral-7B-Instruct-v0.2 is restricted. You must have access to it and be authenticated to access it. Please log in.
+2024-11-27 11:03:56,640 - model_manager - INFO - Loading embedding model
+2024-11-27 11:04:01,938 - model_manager - INFO - Attempting to load NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO
+2024-11-27 11:06:03,603 - model_manager - INFO - Loading embedding model
+2024-11-27 11:06:08,885 - model_manager - INFO - Attempting to load NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO
+2024-11-27 11:06:59,970 - model_manager - INFO - Loading embedding model
+2024-11-27 11:07:04,377 - model_manager - INFO - Attempting to load HuggingFaceH4/zephyr-7b-alpha
+2024-11-27 11:30:59,264 - model_manager - INFO - Logged in to Hugging Face
+2024-11-27 11:30:59,267 - model_manager - INFO - Loading embedding model
+2024-11-27 11:31:05,014 - model_manager - INFO - Loading Mistral model
+2024-11-27 12:15:43,991 - model_manager - ERROR - Error initializing models: ('Connection broken: IncompleteRead(243101385 bytes read, 2158312727 more expected)', IncompleteRead(243101385 bytes read, 2158312727 more expected))
+2024-11-27 12:16:24,556 - model_manager - INFO - Logged in to Hugging Face
+2024-11-27 12:16:24,558 - model_manager - INFO - Loading embedding model
+2024-11-27 12:16:29,242 - model_manager - INFO - Loading Mistral model
+2024-11-27 12:18:05,661 - model_manager - ERROR - Error initializing models: (MaxRetryError('HTTPSConnectionPool(host=\'cdn-lfs-us-1.hf.co\', port=443): Max retries exceeded with url: /repos/15/9d/159dd586229b89e8982a625075ea44e6ca7d4b0f0d41668017b16e470c63ca4b/ce6fb6f6f4d0183f4813cbf4ece24109da629a08d4210da46f77e1d8b0bd5c19?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model-00001-of-00003.safetensors%3B+filename%3D%22model-00001-of-00003.safetensors%22%3B&Expires=1732965393&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMjk2NTM5M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zLzE1LzlkLzE1OWRkNTg2MjI5Yjg5ZTg5ODJhNjI1MDc1ZWE0NGU2Y2E3ZDRiMGYwZDQxNjY4MDE3YjE2ZTQ3MGM2M2NhNGIvY2U2ZmI2ZjZmNGQwMTgzZjQ4MTNjYmY0ZWNlMjQxMDlkYTYyOWEwOGQ0MjEwZGE0NmY3N2UxZDhiMGJkNWMxOT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=FWSmbe6nDDQha6TW0n0fUA9AxYCts1WJ~DL-rr6B4XAh1S2gdbLC7RGuvzOjleDWUxa~si90vimKKK~Nq4PVL42I09s9Fp999FUSrZzHEnZL7RM1aZmAe7JcA2ti7ADnlUOaI3t~qQQ85yOu8QJrlJTVMwlcmE8FNe6bwrNYGwNaAFht5txSaOWSohm~LrB0X1eCbFy-ycYlqRvtOrCoDL9yyyQMn-SjZRrC3J2Ph9USwL6X~H-46a96Dt3C6YCRFNc3nk9vPIi-f0W09eL4uu2kocj1p8OLJ0ABhK4yzmM-SRVUlA-SIyzi1m44L9YYfYla-LEqBFvKdzXIMtqC0A__&Key-Pair-Id=K24J24Z295AEI9 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000018D9982C950>: Failed to resolve \'cdn-lfs-us-1.hf.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: d27e9a8b-1827-49c0-a6da-33a1acfc9f10)')
+2024-11-27 12:19:22,913 - model_manager - INFO - Logged in to Hugging Face
+2024-11-27 12:19:22,916 - model_manager - INFO - Loading embedding model
+2024-11-27 12:19:27,827 - model_manager - INFO - Loading Mistral model
+2024-11-27 12:39:22,158 - model_manager - INFO - Loading embedding model
+2024-11-27 12:39:28,764 - model_manager - INFO - Using API model
+2024-11-27 12:39:28,765 - model_manager - INFO - Model initialization complete
+2024-11-27 12:44:22,072 - model_manager - INFO - Loading embedding model
+2024-11-27 12:44:26,302 - model_manager - INFO - Using API model
+2024-11-27 12:44:26,303 - model_manager - INFO - Model initialization complete
+2024-11-27 12:48:13,202 - model_manager - INFO - Loading embedding model
+2024-11-27 12:48:17,144 - model_manager - INFO - Using API model
+2024-11-27 12:48:17,146 - model_manager - INFO - Model initialization complete
+2024-11-27 12:57:32,713 - model_manager - INFO - Loading embedding model
+2024-11-27 12:57:36,652 - model_manager - INFO - Using API model
+2024-11-27 12:57:36,653 - model_manager - INFO - Model initialization complete
+2024-11-27 13:25:17,273 - model_manager - ERROR - API request failed: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/mistralai/Mistral-7B-Instruct-v0.3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000223F2436D20>: Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2024-11-27 13:25:17,283 - model_manager - ERROR - Error generating response: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/mistralai/Mistral-7B-Instruct-v0.3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000223F2436D20>: Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))

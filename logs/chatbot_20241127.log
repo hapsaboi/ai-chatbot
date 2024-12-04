@@ -1,0 +1,135 @@
+2024-11-27 13:26:19,500 - chatbot - INFO - Loading knowledge base...
+2024-11-27 13:26:20,007 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 13:26:20,027 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 13:26:39,072 - chatbot - INFO - Query type identified as: admission
+2024-11-27 13:26:39,073 - chatbot - INFO - Confidence score: 0.7003761529922485
+2024-11-27 13:26:39,077 - chatbot - ERROR - Error generating response: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/mistralai/Mistral-7B-Instruct-v0.3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000015E0245A030>: Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2024-11-27 13:28:16,516 - chatbot - INFO - Loading knowledge base...
+2024-11-27 13:28:16,936 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 13:28:16,953 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 13:28:19,357 - chatbot - INFO - Query type identified as: admission
+2024-11-27 13:28:19,358 - chatbot - INFO - Confidence score: 0.7003761529922485
+2024-11-27 13:29:18,188 - chatbot - INFO - Query type identified as: location
+2024-11-27 13:29:18,189 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-27 13:29:45,750 - chatbot - INFO - Query type identified as: location
+2024-11-27 13:29:45,751 - chatbot - INFO - Confidence score: 0.4382145404815674
+2024-11-27 13:30:03,292 - chatbot - INFO - Query type identified as: general
+2024-11-27 13:30:03,292 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 13:30:35,424 - chatbot - INFO - Query type identified as: general
+2024-11-27 13:30:35,425 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 13:31:07,881 - chatbot - INFO - Query type identified as: program
+2024-11-27 13:31:07,881 - chatbot - INFO - Confidence score: 0.41991525888442993
+2024-11-27 13:34:26,850 - chatbot - INFO - Loading knowledge base...
+2024-11-27 13:34:27,378 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 13:34:27,401 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 13:47:06,154 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 13:47:06,161 - chatbot - INFO - Confidence score: 0.4610345661640167
+2024-11-27 13:47:47,033 - chatbot - INFO - Query type identified as: general
+2024-11-27 13:47:47,033 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 13:48:21,372 - chatbot - INFO - Query type identified as: admission
+2024-11-27 13:48:21,372 - chatbot - INFO - Confidence score: 0.34388554096221924
+2024-11-27 13:48:42,943 - chatbot - INFO - Query type identified as: general
+2024-11-27 13:48:42,945 - chatbot - INFO - Confidence score: 0.6090641021728516
+2024-11-27 13:49:01,462 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 13:49:01,463 - chatbot - INFO - Confidence score: 0.3963696360588074
+2024-11-27 13:49:22,712 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 13:49:22,713 - chatbot - INFO - Confidence score: 0.4343087673187256
+2024-11-27 13:49:38,255 - chatbot - INFO - Query type identified as: general
+2024-11-27 13:49:38,256 - chatbot - INFO - Confidence score: 0.3972797393798828
+2024-11-27 13:49:50,565 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 13:49:50,566 - chatbot - INFO - Confidence score: 0.3995547890663147
+2024-11-27 13:50:19,556 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 13:50:19,556 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 13:50:21,080 - chatbot - ERROR - Error generating response: 401 Client Error: Unauthorized for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.3
+2024-11-27 13:50:41,052 - chatbot - INFO - Query type identified as: general
+2024-11-27 13:50:41,052 - chatbot - INFO - Confidence score: 0.3766903877258301
+2024-11-27 13:52:52,838 - chatbot - INFO - Loading knowledge base...
+2024-11-27 13:52:53,517 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 13:52:53,550 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 13:53:34,044 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 13:53:34,044 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 13:54:02,615 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 13:54:02,616 - chatbot - INFO - Confidence score: 0.4610345661640167
+2024-11-27 13:54:16,029 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 13:54:16,029 - chatbot - INFO - Confidence score: 0.38301682472229004
+2024-11-27 13:54:40,194 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 13:54:40,195 - chatbot - INFO - Confidence score: 0.4343087673187256
+2024-11-27 13:55:30,721 - chatbot - INFO - Query type identified as: general
+2024-11-27 13:55:30,722 - chatbot - INFO - Confidence score: 0.6147404909133911
+2024-11-27 14:18:17,548 - chatbot - INFO - Query type identified as: general
+2024-11-27 14:18:17,559 - chatbot - INFO - Confidence score: 0.44138777256011963
+2024-11-27 14:18:37,191 - chatbot - INFO - Query type identified as: general
+2024-11-27 14:18:37,192 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 14:18:52,496 - chatbot - INFO - Query type identified as: general
+2024-11-27 14:18:52,497 - chatbot - INFO - Confidence score: 0.5087281465530396
+2024-11-27 14:19:40,261 - chatbot - INFO - Query type identified as: program
+2024-11-27 14:19:40,262 - chatbot - INFO - Confidence score: 0.44698524475097656
+2024-11-27 14:20:06,707 - chatbot - INFO - Query type identified as: program
+2024-11-27 14:20:06,708 - chatbot - INFO - Confidence score: 0.5248892903327942
+2024-11-27 14:20:34,627 - chatbot - INFO - Query type identified as: admission
+2024-11-27 14:20:34,627 - chatbot - INFO - Confidence score: 0.6797140836715698
+2024-11-27 14:22:53,377 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 14:22:53,377 - chatbot - INFO - Confidence score: 0.4502395987510681
+2024-11-27 22:05:36,881 - chatbot - INFO - Loading knowledge base...
+2024-11-27 22:05:37,809 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 22:05:37,846 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 22:06:44,040 - chatbot - INFO - Loading knowledge base...
+2024-11-27 22:06:44,882 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 22:06:44,919 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 22:06:45,947 - chatbot - INFO - Query type identified as: location
+2024-11-27 22:06:45,947 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-27 22:06:48,896 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 22:06:48,898 - chatbot - INFO - Confidence score: 0.3842707872390747
+2024-11-27 22:06:51,664 - chatbot - INFO - Query type identified as: admission
+2024-11-27 22:06:51,666 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-27 22:06:56,250 - chatbot - INFO - Query type identified as: general
+2024-11-27 22:06:56,251 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-27 22:06:57,804 - chatbot - INFO - Query type identified as: general
+2024-11-27 22:06:57,806 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 22:06:59,968 - chatbot - INFO - Query type identified as: facility
+2024-11-27 22:06:59,971 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-27 22:11:31,992 - chatbot - INFO - Loading knowledge base...
+2024-11-27 22:11:32,531 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 22:11:32,579 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 22:11:33,571 - chatbot - INFO - Query type identified as: location
+2024-11-27 22:11:33,572 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-27 22:11:34,773 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 22:11:34,774 - chatbot - INFO - Confidence score: 0.3842707872390747
+2024-11-27 22:11:35,714 - chatbot - INFO - Query type identified as: admission
+2024-11-27 22:11:35,716 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-27 22:11:36,590 - chatbot - INFO - Query type identified as: general
+2024-11-27 22:11:36,591 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-27 22:11:37,540 - chatbot - INFO - Query type identified as: general
+2024-11-27 22:11:37,542 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 22:11:38,473 - chatbot - INFO - Query type identified as: facility
+2024-11-27 22:11:38,475 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-27 22:16:02,859 - chatbot - INFO - Loading knowledge base...
+2024-11-27 22:16:03,008 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 22:16:03,018 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 22:16:03,652 - chatbot - INFO - Query type identified as: location
+2024-11-27 22:16:03,652 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-27 22:16:04,706 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 22:16:04,707 - chatbot - INFO - Confidence score: 0.3842707872390747
+2024-11-27 22:16:05,535 - chatbot - INFO - Query type identified as: admission
+2024-11-27 22:16:05,535 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-27 22:16:06,344 - chatbot - INFO - Query type identified as: general
+2024-11-27 22:16:06,345 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-27 22:16:07,183 - chatbot - INFO - Query type identified as: general
+2024-11-27 22:16:07,184 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 22:16:07,987 - chatbot - INFO - Query type identified as: facility
+2024-11-27 22:16:07,988 - chatbot - INFO - Confidence score: 0.505336344242096
+2024-11-27 22:18:41,904 - chatbot - INFO - Loading knowledge base...
+2024-11-27 22:18:42,109 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 22:18:42,115 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 22:18:42,188 - chatbot - INFO - Query type identified as: location
+2024-11-27 22:18:42,189 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-27 22:18:43,341 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 22:18:43,342 - chatbot - INFO - Confidence score: 0.43809735774993896
+2024-11-27 22:18:44,544 - chatbot - INFO - Query type identified as: admission
+2024-11-27 22:18:44,544 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-27 22:18:45,357 - chatbot - INFO - Query type identified as: general
+2024-11-27 22:18:45,358 - chatbot - INFO - Confidence score: 0.4213070869445801
+2024-11-27 22:18:46,212 - chatbot - INFO - Query type identified as: general
+2024-11-27 22:18:46,215 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 22:18:47,038 - chatbot - INFO - Query type identified as: facility
+2024-11-27 22:18:47,039 - chatbot - INFO - Confidence score: 0.505336344242096

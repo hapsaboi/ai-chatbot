@@ -1,0 +1,21 @@
+Model Comparison Report
+=====================
+Generated: 2024-11-30T16:30:45.001921
+
+Successful Model Evaluations:
+---------------------------
+
+Model: HuggingFaceH4/zephyr-7b-beta
+-----------------------------------
+Main Metrics:
+- Response Quality: 63.40%
+- Retrieval: 80.00%
+- Quality: 35.71%
+- Total Time: 22.37s
+
+Detailed Metrics:
+- factual_accuracy: 80.00%
+- completeness: 80.00%
+- relevance: 80.00%
+- clarity: 77.00%
+- hallucination: 0.00%

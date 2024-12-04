@@ -1,0 +1,19 @@
+{
+  "timestamp": "2024-11-30T16:30:45.001921",
+  "model_results": {
+    "HuggingFaceH4/zephyr-7b-beta": {
+      "response_quality": 0.634,
+      "retrieval": 0.7999999999999999,
+      "quality": 0.3570865901311239,
+      "metric_type_averages": {
+        "factual_accuracy": 0.8,
+        "completeness": 0.8,
+        "relevance": 0.8,
+        "clarity": 0.77,
+        "hallucination": 0.0
+      },
+      "total_time": 22.367602825164795
+    }
+  },
+  "failed_models": []
+}

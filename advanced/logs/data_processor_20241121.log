@@ -1,0 +1,16 @@
+2024-11-21 11:43:23,479 - data_processor - INFO - Prepared 171 training examples
+2024-11-21 11:49:05,184 - data_processor - INFO - Loading datasets...
+2024-11-21 11:49:05,226 - data_processor - INFO - Loaded university_basic_info.csv
+2024-11-21 11:49:05,241 - data_processor - INFO - Loaded programs_and_courses.csv
+2024-11-21 11:49:05,248 - data_processor - INFO - Loaded facilities.csv
+2024-11-21 11:49:05,254 - data_processor - INFO - Loaded accreditations_partnerships.csv
+2024-11-21 11:49:05,262 - data_processor - INFO - Loaded faculties_programs.csv
+2024-11-21 11:49:05,268 - data_processor - INFO - Loaded events_and_news.csv
+2024-11-21 11:49:05,279 - data_processor - INFO - Loaded faculty_info.csv
+2024-11-21 11:49:05,283 - data_processor - INFO - Loaded key_features.csv
+2024-11-21 11:49:05,291 - data_processor - INFO - Loaded research_and_publications.csv
+2024-11-21 11:49:05,317 - data_processor - INFO - Loaded student_services.csv
+2024-11-21 11:49:05,318 - data_processor - INFO - Preparing training data...
+2024-11-21 11:49:05,319 - data_processor - INFO - Creating knowledge base...
+2024-11-21 11:49:05,363 - data_processor - INFO - Created knowledge base with 90 entries
+2024-11-21 11:49:06,055 - data_processor - INFO - Prepared 372 training examples

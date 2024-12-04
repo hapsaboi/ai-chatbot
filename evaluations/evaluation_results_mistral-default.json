@@ -1,0 +1,258 @@
+{
+  "timestamp": "2024-11-30T16:24:33.158534",
+  "metrics": {
+    "response_quality": {
+      "factual_accuracy": 1.0,
+      "completeness": 0.9199999999999999,
+      "relevance": 1.0,
+      "clarity": 1.0,
+      "hallucination": 0.0
+    },
+    "retrieval": {
+      "precision": 0.95,
+      "recall": 0.8675,
+      "relevance": 0.8675
+    },
+    "quality": {
+      "overall_quality": 1.0,
+      "confidence_alignment": 0.96,
+      "format_quality": 1.0
+    }
+  },
+  "details": [
+    {
+      "test_case": {
+        "type": "location",
+        "query": "Where is the university located?",
+        "expected_response": "The university is located at Dubai Academic City - Dubai - United Arab Emirates.",
+        "expected_knowledge": [
+          "Location: Dubai Academic City - Dubai - United Arab Emirates"
+        ]
+      },
+      "response": {
+        "status": "success",
+        "response": "The university is located in Dubai Academic City, Dubai, United Arab Emirates.",
+        "confidence": 0.5562988519668579,
+        "relevant_knowledge": [
+          "Location: Dubai Academic City - Dubai - United Arab Emirates",
+          "University_Name: Emirates Aviation University",
+          "The university is accredited by UAE as Ministry of Education \u2013 Higher Education Affairs",
+          "The university is accredited by nan as Boeing",
+          "The Residential facilities include: On-campus student accommodation"
+        ]
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 1.0,
+          "completeness": 1.0,
+          "relevance": 1.0,
+          "clarity": 1.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0
+        },
+        "quality": {
+          "overall_quality": 1.0,
+          "confidence_alignment": 1.0,
+          "format_quality": 1.0
+        },
+        "performance": {
+          "response_time": 7.088346719741821,
+          "success": true
+        }
+      }
+    },
+    {
+      "test_case": {
+        "type": "faculty",
+        "query": "Who is the faculty Dr. Deepudev?",
+        "expected_response": "Dr. Deepudev Shahadevan is an Assistant Professor in the Faculty of Mathematics and Data Science. His specialization is Data Science, Machine Learning, and Air Traffic Management.",
+        "expected_knowledge": [
+          "Dr. Deepudev Shahadevan is a Assistant Professor in the Faculty of Mathematics and Data Science",
+          "Specialization: Data Science, Machine Learning, Air Traffic Management"
+        ]
+      },
+      "response": {
+        "status": "success",
+        "response": "Dr. Deepudev Shahadevan is a faculty member in the Faculty of Mathematics and Data Science.",
+        "confidence": 0.43809735774993896,
+        "relevant_knowledge": [
+          "Dr.Blessy Trencia Lincy is a Assistant Professor in the Faculty of Mathematics and Data Science. Contact: blessytrencialincy.simonshepherd@emirates.com, +971 4 6050172. Specialization: Computer Science, Data Science. Research interests: Artificial Intelligence, Data Science, Big Data Analytics, Machine Learning",
+          "Dr. Deepudev Shahadevan is a Assistant Professor in the Faculty of Mathematics and Data Science. Contact: deepu.dev@eau.ac.ae, +971 4 6050154. Specialization: Data Science, Machine Learning, Air Traffic Management. Research interests: 4D Trajectory Based Operation, Airport and Airspace Capacity Enhancement, Airline Scheduling",
+          "Prof. Dr. Zindoga Mukandavire is a Acting Dean in the Faculty of Business Management. Contact: zindoga.mukandavire@emirates.com, +971 4 6050189. Specialization: Mathematical modeling, Aviation industry problems. Research interests: Designing and using mathematical models to understand and solve problems in aviation industry, biology, and public health",
+          "Dr. Sevda Ahmadian is a Assistant Professor in the Faculty of Business Management. Contact: sevda.ahmadian@eau.ac.ae, +971 4 6050121. Specialization: Aviation Management, Pilot training. Research interests: Not specified",
+          "Vice_Chancellor: Professor Ahmad Al Ali"
+        ]
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 1.0,
+          "completeness": 0.8,
+          "relevance": 1.0,
+          "clarity": 1.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0
+        },
+        "quality": {
+          "overall_quality": 1.0,
+          "confidence_alignment": 0.8,
+          "format_quality": 1.0
+        },
+        "performance": {
+          "response_time": 3.835113286972046,
+          "success": true
+        }
+      }
+    },
+    {
+      "test_case": {
+        "type": "admission",
+        "query": "What are the admission requirements?",
+        "expected_response": "For UAE Curriculum (Elite & Advanced Track), you need a minimum overall average of 70%. English proficiency requirements include TOEFL iBT 79 or IELTS 6.0.",
+        "expected_knowledge": [
+          "For UAE Curriculum (Elite & Advanced Track): Minimum overall average of 70%",
+          "For English Proficiency: TOEFL iBT 79 or IELTS 6.0"
+        ]
+      },
+      "response": {
+        "status": "success",
+        "response": "For Undergraduate programs, requirements include a minimum overall average of 70% (UAE Curriculum - Elite & Advanced Track), 90% (UAE Curriculum - General Track), successful completion of Year 13 (British System), a minimum score of 24 points including min 4 points in HL Math and Physics (IB Diploma), a minimum of 70% average (American System), a minimum average of 50% (Indian System). For Postgraduate programs, a minimum CGPA of 3.0 on a 4.0 scale is required. For all programs, English proficiency is required with a minimum score of TOEFL iBT 79, IELTS 6.0, or EmSAT 1400. The application process includes online application, submission of required documents, and possible interview. International students can apply for a UAE student visa sponsorship. Merit-based scholarships are available for academically distinguished students. The university is accredited by the UK's Quality Assurance Agency for Higher Education (QAA) and specializes in aviation education.",
+        "confidence": 0.7024282813072205,
+        "relevant_knowledge": [
+          "Admission requirements for Postgraduate programs:\n- For Bachelor's Degree: Minimum CGPA of 3.0 on a 4.0 scale\n- For English Proficiency: TOEFL iBT 79 or IELTS 6.0\n",
+          "Admission requirements for Undergraduate programs:\n- For UAE Curriculum (Elite & Advanced Track): Minimum overall average of 70%\n- For UAE Curriculum (General Track): Minimum overall average of 90%\n- For British System: Successfully complete Year 13\n- For IB Diploma: Minimum score of 24 points including min 4 points in HL Math and Physics\n- For American System: Minimum of 70% average in final grade (Grade 12)\n- For Indian System: Minimum average of 50% in Senior Secondary School Certificate (12th Standard)\n- For English Proficiency: TOEFL iBT 79 or IELTS 6.0 or EmSAT 1400\n",
+          "Admission requirements for All programs:\n- For Application Process: Online application\n- For Application Process: Submission of required documents\n- For Application Process: Possible interview\n- For Visa: UAE student visa sponsorship available for international students\n- For Scholarships: Merit-based scholarships available for academically distinguished students\n",
+          "The university is accredited by UK as The Quality Assurance Agency for Higher Education (QAA)",
+          "Type: Private university specializing in aviation education"
+        ]
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 1.0,
+          "completeness": 1.0,
+          "relevance": 1.0,
+          "clarity": 1.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 0.8,
+          "recall": 0.8,
+          "relevance": 0.8
+        },
+        "quality": {
+          "overall_quality": 1.0,
+          "confidence_alignment": 1.0,
+          "format_quality": 1.0
+        },
+        "performance": {
+          "response_time": 4.169530391693115,
+          "success": true
+        }
+      }
+    },
+    {
+      "test_case": {
+        "type": "facilities",
+        "query": "What facilities do you have?",
+        "expected_response": "Our facilities include engineering laboratories, workshops, flight simulators, Learning Resource Centre, cafeteria, coffee shop, and sports facilities including swimming pool, gym, and tennis courts.",
+        "expected_knowledge": [
+          "The Academic facilities include: Engineering laboratories, Workshops, Flight simulators, Learning Resource Centre",
+          "The Sports facilities include: Swimming pool, Gym, Tennis courts",
+          "The Dining facilities include: Cafeteria, Coffee shop"
+        ]
+      },
+      "response": {
+        "status": "success",
+        "response": "We have Recreational facilities (Student Activity Room, TV rooms), Residential facilities (On-campus student accommodation), Academic facilities (Engineering laboratories, Workshops, Flight simulators, Learning Resource Centre), Dining facilities (Cafeteria, Coffee shop), and Sports facilities (Swimming pool, Gym, Tennis courts, Basketball court, Football field, Cricket pitch).",
+        "confidence": 0.505336344242096,
+        "relevant_knowledge": [
+          "The Recreation facilities include: Student Activity Room, TV rooms",
+          "The Residential facilities include: On-campus student accommodation",
+          "The Academic facilities include: Engineering laboratories, Workshops, Flight simulators, Learning Resource Centre",
+          "The Dining facilities include: Cafeteria, Coffee shop",
+          "The Sports facilities include: Swimming pool, Gym, Tennis courts, Basketball court, Football field, Cricket pitch"
+        ]
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 1.0,
+          "completeness": 0.8,
+          "relevance": 1.0,
+          "clarity": 1.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 1.0,
+          "recall": 0.67,
+          "relevance": 0.67
+        },
+        "quality": {
+          "overall_quality": 1.0,
+          "confidence_alignment": 1.0,
+          "format_quality": 1.0
+        },
+        "performance": {
+          "response_time": 10.813531637191772,
+          "success": true
+        }
+      }
+    },
+    {
+      "test_case": {
+        "type": "edge_case",
+        "query": "How old are you?",
+        "expected_response": "I am an AI assistant focused on providing information about Emirates Aviation University. I can help you with questions about our programs, admissions, facilities, and other university-related topics.",
+        "expected_knowledge": []
+      },
+      "response": {
+        "status": "general_guidance",
+        "response": "I am not a person; I am an information assistant for Emirates Aviation University, which focuses on aviation and engineering education. I don't have an age.",
+        "confidence": 0.3,
+        "relevant_knowledge": []
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 1.0,
+          "completeness": 1.0,
+          "relevance": 1.0,
+          "clarity": 1.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "relevance": 0.0
+        },
+        "quality": {
+          "overall_quality": 1.0,
+          "confidence_alignment": 1.0,
+          "format_quality": 1.0
+        },
+        "performance": {
+          "response_time": 3.3731138706207275,
+          "success": false
+        }
+      }
+    }
+  ],
+  "evaluator_averages": {
+    "response_quality": 0.784,
+    "retrieval": 0.895,
+    "quality": 0.9866666666666667
+  },
+  "metric_type_averages": {
+    "factual_accuracy": 1.0,
+    "completeness": 0.9199999999999999,
+    "relevance": 1.0,
+    "clarity": 1.0,
+    "hallucination": 0.0
+  },
+  "total_time": 29.279635906219482
+}

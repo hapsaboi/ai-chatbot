@@ -1,0 +1,38 @@
+2024-11-26 13:48:04,188 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-26 13:48:04,750 - model_manager - INFO - Loading embedding model
+2024-11-26 13:48:09,192 - model_manager - INFO - Model initialization complete
+2024-11-26 14:45:25,170 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-26 14:45:25,495 - model_manager - INFO - Loading embedding model
+2024-11-26 14:45:33,149 - model_manager - INFO - Model initialization complete
+2024-11-26 15:06:08,640 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-26 15:06:09,017 - model_manager - INFO - Loading embedding model
+2024-11-26 15:06:13,780 - model_manager - INFO - Model initialization complete
+2024-11-26 15:08:55,898 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-26 15:08:56,244 - model_manager - INFO - Loading embedding model
+2024-11-26 15:09:01,182 - model_manager - INFO - Model initialization complete
+2024-11-26 15:13:01,075 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-26 15:13:01,454 - model_manager - INFO - Loading embedding model
+2024-11-26 15:13:05,978 - model_manager - INFO - Model initialization complete
+2024-11-26 15:15:20,762 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-26 15:15:21,048 - model_manager - INFO - Loading embedding model
+2024-11-26 15:16:04,796 - model_manager - INFO - Model initialization complete
+2024-11-26 15:31:38,644 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-26 15:31:38,940 - model_manager - INFO - Loading embedding model
+2024-11-26 15:31:44,562 - model_manager - INFO - Model initialization complete
+2024-11-26 15:32:12,582 - model_manager - ERROR - Error cleaning response: name 're' is not defined
+2024-11-26 15:32:12,587 - model_manager - ERROR - Error generating response: name 're' is not defined
+2024-11-26 15:32:32,297 - model_manager - ERROR - Error cleaning response: name 're' is not defined
+2024-11-26 15:32:32,298 - model_manager - ERROR - Error generating response: name 're' is not defined
+2024-11-26 15:32:39,220 - model_manager - ERROR - Error cleaning response: name 're' is not defined
+2024-11-26 15:32:39,222 - model_manager - ERROR - Error generating response: name 're' is not defined
+2024-11-26 15:32:51,304 - model_manager - ERROR - Error cleaning response: name 're' is not defined
+2024-11-26 15:32:51,304 - model_manager - ERROR - Error generating response: name 're' is not defined
+2024-11-26 15:33:57,494 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-26 15:33:57,759 - model_manager - INFO - Loading embedding model
+2024-11-26 15:34:02,798 - model_manager - INFO - Model initialization complete
+2024-11-26 15:50:59,092 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-26 15:50:59,475 - model_manager - INFO - Loading embedding model
+2024-11-26 15:51:04,510 - model_manager - INFO - Model initialization complete
+2024-11-26 16:18:35,179 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-26 16:18:35,613 - model_manager - INFO - Loading embedding model
+2024-11-26 16:18:41,199 - model_manager - INFO - Model initialization complete

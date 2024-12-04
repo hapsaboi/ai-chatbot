@@ -1,0 +1,31 @@
+2024-11-27 13:26:18,676 - model_manager - INFO - Loading embedding model
+2024-11-27 13:26:19,499 - model_manager - INFO - Using API model
+2024-11-27 13:26:19,499 - model_manager - INFO - Model initialization complete
+2024-11-27 13:26:39,075 - model_manager - ERROR - API request failed: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/mistralai/Mistral-7B-Instruct-v0.3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000015E0245A030>: Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2024-11-27 13:26:39,077 - model_manager - ERROR - Error generating response: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/mistralai/Mistral-7B-Instruct-v0.3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000015E0245A030>: Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2024-11-27 13:28:11,121 - model_manager - INFO - Loading embedding model
+2024-11-27 13:28:16,514 - model_manager - INFO - Using API model
+2024-11-27 13:28:16,515 - model_manager - INFO - Model initialization complete
+2024-11-27 13:34:20,192 - model_manager - INFO - Loading embedding model
+2024-11-27 13:34:26,848 - model_manager - INFO - Using API model
+2024-11-27 13:34:26,849 - model_manager - INFO - Model initialization complete
+2024-11-27 13:50:21,070 - model_manager - ERROR - API request failed: 401 Client Error: Unauthorized for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.3
+2024-11-27 13:50:21,079 - model_manager - ERROR - Error generating response: 401 Client Error: Unauthorized for url: https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.3
+2024-11-27 13:52:47,674 - model_manager - INFO - Loading embedding model
+2024-11-27 13:52:52,835 - model_manager - INFO - Using API model
+2024-11-27 13:52:52,836 - model_manager - INFO - Model initialization complete
+2024-11-27 22:05:30,598 - model_manager - INFO - Loading embedding model
+2024-11-27 22:05:36,878 - model_manager - INFO - Using API model
+2024-11-27 22:05:36,879 - model_manager - INFO - Model initialization complete
+2024-11-27 22:06:35,224 - model_manager - INFO - Loading embedding model
+2024-11-27 22:06:44,036 - model_manager - INFO - Using API model
+2024-11-27 22:06:44,038 - model_manager - INFO - Model initialization complete
+2024-11-27 22:11:26,870 - model_manager - INFO - Loading embedding model
+2024-11-27 22:11:31,990 - model_manager - INFO - Using API model
+2024-11-27 22:11:31,991 - model_manager - INFO - Model initialization complete
+2024-11-27 22:15:58,698 - model_manager - INFO - Loading embedding model
+2024-11-27 22:16:02,856 - model_manager - INFO - Using API model
+2024-11-27 22:16:02,857 - model_manager - INFO - Model initialization complete
+2024-11-27 22:18:37,751 - model_manager - INFO - Loading embedding model
+2024-11-27 22:18:41,900 - model_manager - INFO - Using API model
+2024-11-27 22:18:41,902 - model_manager - INFO - Model initialization complete

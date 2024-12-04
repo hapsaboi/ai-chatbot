@@ -1,0 +1,106 @@
+2024-11-27 09:50:47,361 - chatbot - INFO - Loading knowledge base...
+2024-11-27 09:50:48,058 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 09:50:48,089 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 09:54:47,668 - chatbot - INFO - Loading knowledge base...
+2024-11-27 09:54:48,158 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 09:54:48,172 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 10:10:09,751 - chatbot - INFO - Loading knowledge base...
+2024-11-27 10:10:10,276 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 10:10:10,338 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 10:11:48,389 - chatbot - INFO - Query type identified as: location
+2024-11-27 10:11:48,390 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-27 10:11:48,391 - chatbot - ERROR - Error generating response: ModelManager.generate_response() got an unexpected keyword argument 'do_sample'
+2024-11-27 10:12:49,343 - chatbot - INFO - Loading knowledge base...
+2024-11-27 10:12:49,497 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 10:12:49,504 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 10:12:54,280 - chatbot - INFO - Query type identified as: location
+2024-11-27 10:12:54,281 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-27 10:12:54,281 - chatbot - ERROR - Error generating response: ModelManager.generate_response() got an unexpected keyword argument 'do_sample'
+2024-11-27 10:16:23,599 - chatbot - INFO - Loading knowledge base...
+2024-11-27 10:16:23,809 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 10:16:23,813 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 10:16:38,125 - chatbot - INFO - Query type identified as: location
+2024-11-27 10:16:38,125 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-27 10:16:38,126 - chatbot - ERROR - Error generating response: ModelManager.generate_response() got an unexpected keyword argument 'temperature'
+2024-11-27 10:17:52,278 - chatbot - INFO - Loading knowledge base...
+2024-11-27 10:17:52,435 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 10:17:52,442 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 10:17:57,886 - chatbot - INFO - Query type identified as: location
+2024-11-27 10:17:57,887 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-27 10:17:57,887 - chatbot - ERROR - Error generating response: ModelManager.generate_response() got an unexpected keyword argument 'max_length'
+2024-11-27 10:21:20,248 - chatbot - INFO - Loading knowledge base...
+2024-11-27 10:21:20,559 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 10:21:20,565 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 10:21:24,582 - chatbot - INFO - Query type identified as: location
+2024-11-27 10:21:24,583 - chatbot - INFO - Confidence score: 0.5562988519668579
+2024-11-27 10:21:35,995 - chatbot - INFO - Response validation failed, retrying with more explicit context
+2024-11-27 10:22:05,764 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 10:22:05,766 - chatbot - INFO - Confidence score: 0.4085952639579773
+2024-11-27 10:22:20,098 - chatbot - INFO - Response validation failed, retrying with more explicit context
+2024-11-27 10:23:32,260 - chatbot - INFO - Query type identified as: admission
+2024-11-27 10:23:32,261 - chatbot - INFO - Confidence score: 0.5674803256988525
+2024-11-27 10:23:50,169 - chatbot - INFO - Response validation failed, retrying with more explicit context
+2024-11-27 10:24:07,172 - chatbot - ERROR - Error creating conservative response: 'requirements'
+2024-11-27 10:32:47,517 - chatbot - INFO - Query type identified as: general
+2024-11-27 10:32:47,517 - chatbot - INFO - Confidence score: 0.5379350185394287
+2024-11-27 10:33:06,937 - chatbot - INFO - Response validation failed, retrying with more explicit context
+2024-11-27 10:34:50,836 - chatbot - INFO - Query type identified as: program
+2024-11-27 10:34:50,836 - chatbot - INFO - Confidence score: 0.509922206401825
+2024-11-27 10:34:58,534 - chatbot - INFO - Response validation failed, retrying with more explicit context
+2024-11-27 10:35:04,561 - chatbot - ERROR - Error creating conservative response: 'details'
+2024-11-27 10:35:45,900 - chatbot - INFO - Query type identified as: program
+2024-11-27 10:35:45,900 - chatbot - INFO - Confidence score: 0.4605414867401123
+2024-11-27 10:35:52,402 - chatbot - INFO - Response validation failed, retrying with more explicit context
+2024-11-27 10:35:59,490 - chatbot - ERROR - Error creating conservative response: 'details'
+2024-11-27 10:36:28,159 - chatbot - INFO - Query type identified as: admission
+2024-11-27 10:36:28,159 - chatbot - INFO - Confidence score: 0.6591987609863281
+2024-11-27 12:39:28,766 - chatbot - INFO - Loading knowledge base...
+2024-11-27 12:39:29,257 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 12:39:29,281 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 12:41:18,062 - chatbot - INFO - Query type identified as: general
+2024-11-27 12:41:18,063 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 12:44:26,304 - chatbot - INFO - Loading knowledge base...
+2024-11-27 12:44:26,778 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 12:44:26,796 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 12:44:34,377 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 12:44:34,378 - chatbot - INFO - Confidence score: 0.4085952639579773
+2024-11-27 12:44:34,378 - chatbot - ERROR - Error generating response: ModelManager.generate_response() got an unexpected keyword argument 'max_length'
+2024-11-27 12:48:17,147 - chatbot - INFO - Loading knowledge base...
+2024-11-27 12:48:17,296 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 12:48:17,302 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 12:48:20,624 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 12:48:20,625 - chatbot - INFO - Confidence score: 0.4085952639579773
+2024-11-27 12:49:00,577 - chatbot - INFO - Query type identified as: general
+2024-11-27 12:49:00,578 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 12:49:09,325 - chatbot - INFO - Query type identified as: general
+2024-11-27 12:49:09,326 - chatbot - INFO - Confidence score: 0.5808154344558716
+2024-11-27 12:49:29,494 - chatbot - INFO - Query type identified as: admission
+2024-11-27 12:49:29,495 - chatbot - INFO - Confidence score: 0.7024282813072205
+2024-11-27 12:50:14,137 - chatbot - INFO - Query type identified as: program
+2024-11-27 12:50:14,137 - chatbot - INFO - Confidence score: 0.3539668321609497
+2024-11-27 12:57:36,654 - chatbot - INFO - Loading knowledge base...
+2024-11-27 12:57:36,810 - chatbot - INFO - Loading pre-computed embeddings...
+2024-11-27 12:57:36,819 - chatbot - INFO - Knowledge base loaded successfully
+2024-11-27 12:57:40,432 - chatbot - INFO - Query type identified as: program
+2024-11-27 12:57:40,432 - chatbot - INFO - Confidence score: 0.3539668321609497
+2024-11-27 12:58:13,274 - chatbot - INFO - Query type identified as: general
+2024-11-27 12:58:13,276 - chatbot - INFO - Confidence score: 0.4326859712600708
+2024-11-27 12:58:37,313 - chatbot - INFO - Query type identified as: general
+2024-11-27 12:58:37,314 - chatbot - INFO - Confidence score: 0.6707644462585449
+2024-11-27 13:00:22,315 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 13:00:22,315 - chatbot - INFO - Confidence score: 0.4085952639579773
+2024-11-27 13:00:43,015 - chatbot - INFO - Query type identified as: faculty
+2024-11-27 13:00:43,015 - chatbot - INFO - Confidence score: 0.3973885774612427
+2024-11-27 13:01:14,950 - chatbot - INFO - Query type identified as: general
+2024-11-27 13:01:14,951 - chatbot - INFO - Confidence score: 0.5808154344558716
+2024-11-27 13:01:34,842 - chatbot - INFO - Query type identified as: facility
+2024-11-27 13:01:34,842 - chatbot - INFO - Confidence score: 0.6205926537513733
+2024-11-27 13:02:04,961 - chatbot - INFO - Query type identified as: general
+2024-11-27 13:02:04,961 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 13:02:27,768 - chatbot - INFO - Query type identified as: general
+2024-11-27 13:02:27,769 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 13:02:43,527 - chatbot - INFO - Query type identified as: general
+2024-11-27 13:02:43,528 - chatbot - INFO - Confidence score: 0.0
+2024-11-27 13:25:17,237 - chatbot - INFO - Query type identified as: general
+2024-11-27 13:25:17,238 - chatbot - INFO - Confidence score: 0.7257064580917358
+2024-11-27 13:25:17,285 - chatbot - ERROR - Error generating response: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/mistralai/Mistral-7B-Instruct-v0.3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000223F2436D20>: Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))

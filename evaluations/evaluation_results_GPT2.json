@@ -1,0 +1,258 @@
+{
+  "timestamp": "2024-11-30T16:45:06.969231",
+  "metrics": {
+    "response_quality": {
+      "factual_accuracy": 0.0,
+      "completeness": 0.0,
+      "relevance": 0.0,
+      "clarity": 0.0,
+      "hallucination": 0.0
+    },
+    "retrieval": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "relevance": 0.0
+    },
+    "quality": {
+      "overall_quality": 0.0,
+      "confidence_alignment": 0.0,
+      "format_quality": 0.0
+    }
+  },
+  "details": [
+    {
+      "test_case": {
+        "type": "location",
+        "query": "Where is the university located?",
+        "expected_response": "The university is located at Dubai Academic City - Dubai - United Arab Emirates.",
+        "expected_knowledge": [
+          "Location: Dubai Academic City - Dubai - United Arab Emirates"
+        ]
+      },
+      "response": {
+        "status": "success",
+        "response": "In Abu Dhabi (the capital) there is an airport called Al Qaim which has been designated for international flights from Qatar to Saudi Arabia in order that it can be used on all commercial aircraft including airliners with no registration fee at this time. This means you will need to pay your taxes before flying into al qaeda airspace! You may also want some help if travelling through other countries such Asiana Airlines International Airport where they have their own flight service available but we recommend booking online first so please do check them out when visiting us here .",
+        "confidence": 0.5562988519668579,
+        "relevant_knowledge": [
+          "Location: Dubai Academic City - Dubai - United Arab Emirates",
+          "University_Name: Emirates Aviation University",
+          "The university is accredited by UAE as Ministry of Education \u2013 Higher Education Affairs",
+          "The university is accredited by nan as Boeing",
+          "The Residential facilities include: On-campus student accommodation"
+        ]
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 0.0,
+          "completeness": 0.0,
+          "relevance": 0.0,
+          "clarity": 0.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "relevance": 0.0
+        },
+        "quality": {
+          "overall_quality": 0.0,
+          "confidence_alignment": 0.0,
+          "format_quality": 0.0
+        },
+        "performance": {
+          "response_time": 7.046614408493042,
+          "success": true
+        }
+      }
+    },
+    {
+      "test_case": {
+        "type": "faculty",
+        "query": "Who is the faculty Dr. Deepudev?",
+        "expected_response": "Dr. Deepudev Shahadevan is an Assistant Professor in the Faculty of Mathematics and Data Science. His specialization is Data Science, Machine Learning, and Air Traffic Management.",
+        "expected_knowledge": [
+          "Dr. Deepudev Shahadevan is a Assistant Professor in the Faculty of Mathematics and Data Science",
+          "Specialization: Data Science, Machine Learning, Air Traffic Management"
+        ]
+      },
+      "response": {
+        "status": "success",
+        "response": "The Chairperson for this department was appointed by President Abdul Aziz al Saud on May 1st 2017 at his request from Mr. Sultan bin Nayef who has been serving as Director General of UAE Aerospace Industries since January 2016 (see above). He will be responsible solely with respect that he serves under an Executive Committee consisting mainly members of senior officials within Dubai International Airlines Group Ltd., which includes all its subsidiaries including Aeronautical Services Limited (\"ASL\"), Airbus Defence & Space Corporation (\"ADC\") and Boeing Co. \"Airbus\" Inc. It would also serve as Chairman/CEO of ASL while it remains operational until further notice if necessary due thereto; however there may still exist some other directorships such Asl executives have no role outside their respective companies but they can continue working together through various channels like advisory committees etc.; therefore we do not consider them part thereof nor should anyone else hold positions related directly between these two entities.\"",
+        "confidence": 0.43809735774993896,
+        "relevant_knowledge": [
+          "Dr.Blessy Trencia Lincy is a Assistant Professor in the Faculty of Mathematics and Data Science. Contact: blessytrencialincy.simonshepherd@emirates.com, +971 4 6050172. Specialization: Computer Science, Data Science. Research interests: Artificial Intelligence, Data Science, Big Data Analytics, Machine Learning",
+          "Dr. Deepudev Shahadevan is a Assistant Professor in the Faculty of Mathematics and Data Science. Contact: deepu.dev@eau.ac.ae, +971 4 6050154. Specialization: Data Science, Machine Learning, Air Traffic Management. Research interests: 4D Trajectory Based Operation, Airport and Airspace Capacity Enhancement, Airline Scheduling",
+          "Prof. Dr. Zindoga Mukandavire is a Acting Dean in the Faculty of Business Management. Contact: zindoga.mukandavire@emirates.com, +971 4 6050189. Specialization: Mathematical modeling, Aviation industry problems. Research interests: Designing and using mathematical models to understand and solve problems in aviation industry, biology, and public health",
+          "Dr. Sevda Ahmadian is a Assistant Professor in the Faculty of Business Management. Contact: sevda.ahmadian@eau.ac.ae, +971 4 6050121. Specialization: Aviation Management, Pilot training. Research interests: Not specified",
+          "Vice_Chancellor: Professor Ahmad Al Ali"
+        ]
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 0.0,
+          "completeness": 0.0,
+          "relevance": 0.0,
+          "clarity": 0.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "relevance": 0.0
+        },
+        "quality": {
+          "overall_quality": 0.0,
+          "confidence_alignment": 0.0,
+          "format_quality": 0.0
+        },
+        "performance": {
+          "response_time": 10.463924646377563,
+          "success": true
+        }
+      }
+    },
+    {
+      "test_case": {
+        "type": "admission",
+        "query": "What are the admission requirements?",
+        "expected_response": "For UAE Curriculum (Elite & Advanced Track), you need a minimum overall average of 70%. English proficiency requirements include TOEFL iBT 79 or IELTS 6.0.",
+        "expected_knowledge": [
+          "For UAE Curriculum (Elite & Advanced Track): Minimum overall average of 70%",
+          "For English Proficiency: TOEFL iBT 79 or IELTS 6.0"
+        ]
+      },
+      "response": {
+        "status": "success",
+        "response": "You must be at least 18 years old to apply online with your passport issued from Dubai International Airport before you can enter into an airline ticketing agreement that will allow entry through airport terminals without prior approval. If this does happen, please contact us immediately if there is anything wrong about our website/applications process. We do not accept applications under age 16 unless accompanied by proof of financial need such as valid bank account details etc. Please note that we cannot guarantee acceptance via email due out within 48 hours after receipt of payment(s).",
+        "confidence": 0.7024282813072205,
+        "relevant_knowledge": [
+          "Admission requirements for Postgraduate programs:\n- For Bachelor's Degree: Minimum CGPA of 3.0 on a 4.0 scale\n- For English Proficiency: TOEFL iBT 79 or IELTS 6.0\n",
+          "Admission requirements for Undergraduate programs:\n- For UAE Curriculum (Elite & Advanced Track): Minimum overall average of 70%\n- For UAE Curriculum (General Track): Minimum overall average of 90%\n- For British System: Successfully complete Year 13\n- For IB Diploma: Minimum score of 24 points including min 4 points in HL Math and Physics\n- For American System: Minimum of 70% average in final grade (Grade 12)\n- For Indian System: Minimum average of 50% in Senior Secondary School Certificate (12th Standard)\n- For English Proficiency: TOEFL iBT 79 or IELTS 6.0 or EmSAT 1400\n",
+          "Admission requirements for All programs:\n- For Application Process: Online application\n- For Application Process: Submission of required documents\n- For Application Process: Possible interview\n- For Visa: UAE student visa sponsorship available for international students\n- For Scholarships: Merit-based scholarships available for academically distinguished students\n",
+          "The university is accredited by UK as The Quality Assurance Agency for Higher Education (QAA)",
+          "Type: Private university specializing in aviation education"
+        ]
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 0.0,
+          "completeness": 0.0,
+          "relevance": 0.0,
+          "clarity": 0.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "relevance": 0.0
+        },
+        "quality": {
+          "overall_quality": 0.0,
+          "confidence_alignment": 0.0,
+          "format_quality": 0.0
+        },
+        "performance": {
+          "response_time": 8.023449897766113,
+          "success": true
+        }
+      }
+    },
+    {
+      "test_case": {
+        "type": "facilities",
+        "query": "What facilities do you have?",
+        "expected_response": "Our facilities include engineering laboratories, workshops, flight simulators, Learning Resource Centre, cafeteria, coffee shop, and sports facilities including swimming pool, gym, and tennis courts.",
+        "expected_knowledge": [
+          "The Academic facilities include: Engineering laboratories, Workshops, Flight simulators, Learning Resource Centre",
+          "The Sports facilities include: Swimming pool, Gym, Tennis courts",
+          "The Dining facilities include: Cafeteria, Coffee shop"
+        ]
+      },
+      "response": {
+        "status": "success",
+        "response": "We offer all of our Facilities in three different locations - on campus (Student Activities Room, Television room), at home (Dining area) and off campus (Sports areas). Please note that we cannot provide your name for security reasons as it is confidential to us by law so please be aware when contacting me if this happens!",
+        "confidence": 0.505336344242096,
+        "relevant_knowledge": [
+          "The Recreation facilities include: Student Activity Room, TV rooms",
+          "The Residential facilities include: On-campus student accommodation",
+          "The Academic facilities include: Engineering laboratories, Workshops, Flight simulators, Learning Resource Centre",
+          "The Dining facilities include: Cafeteria, Coffee shop",
+          "The Sports facilities include: Swimming pool, Gym, Tennis courts, Basketball court, Football field, Cricket pitch"
+        ]
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 0.0,
+          "completeness": 0.0,
+          "relevance": 0.0,
+          "clarity": 0.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "relevance": 0.0
+        },
+        "quality": {
+          "overall_quality": 0.0,
+          "confidence_alignment": 0.0,
+          "format_quality": 0.0
+        },
+        "performance": {
+          "response_time": 3.8871638774871826,
+          "success": true
+        }
+      }
+    },
+    {
+      "test_case": {
+        "type": "edge_case",
+        "query": "How old are you?",
+        "expected_response": "I am an AI assistant focused on providing information about Emirates Aviation University. I can help you with questions about our programs, admissions, facilities, and other university-related topics.",
+        "expected_knowledge": []
+      },
+      "response": {
+        "status": "general_guidance",
+        "response": "We're looking for students who have completed at least one year of college (or equivalent) within UAE Air Force Academy from September 1st through October 31th 2017 . Please note that we do NOT provide student transcripts when applying online; however if your application has been submitted by November 30th 2018 , please include this statement along side your name so it can be easily read during processing time!",
+        "confidence": 0.3,
+        "relevant_knowledge": []
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 0.0,
+          "completeness": 0.0,
+          "relevance": 0.0,
+          "clarity": 0.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "relevance": 0.0
+        },
+        "quality": {
+          "overall_quality": 0.0,
+          "confidence_alignment": 0.0,
+          "format_quality": 0.0
+        },
+        "performance": {
+          "response_time": 7.967619895935059,
+          "success": false
+        }
+      }
+    }
+  ],
+  "evaluator_averages": {
+    "response_quality": 0.0,
+    "retrieval": 0.0,
+    "quality": 0.0
+  },
+  "metric_type_averages": {
+    "factual_accuracy": 0.0,
+    "completeness": 0.0,
+    "relevance": 0.0,
+    "clarity": 0.0,
+    "hallucination": 0.0
+  },
+  "total_time": 37.38877272605896
+}

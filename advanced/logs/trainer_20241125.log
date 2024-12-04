@@ -1,0 +1,66 @@
+2024-11-25 17:02:51,829 - trainer - ERROR - Error during training: list index out of range
+2024-11-25 17:07:06,634 - trainer - ERROR - Error during training: Using the `Trainer` with `PyTorch` requires `accelerate>=0.26.0`: Please run `pip install transformers[torch]` or `pip install 'accelerate>={ACCELERATE_MIN_VERSION}'`
+2024-11-25 17:10:50,397 - trainer - INFO - Starting optimized training...
+2024-11-25 17:10:52,194 - trainer - INFO - Starting training optimization...
+2024-11-25 17:10:52,261 - trainer - ERROR - Error during training: Can't pickle local object 'DataProcessor.prepare_training_data.<locals>.ChatbotDataset'
+2024-11-25 17:26:56,371 - trainer - ERROR - Error preparing model: type object 'ChatbotConfig' has no attribute 'GRADIENT_CHECKPOINTING'
+2024-11-25 17:26:56,375 - trainer - ERROR - Error during training: type object 'ChatbotConfig' has no attribute 'GRADIENT_CHECKPOINTING'
+2024-11-25 17:29:04,736 - trainer - INFO - Loading and preparing datasets...
+2024-11-25 17:29:06,386 - trainer - INFO - Starting training...
+2024-11-25 17:29:07,833 - trainer - INFO - Starting training optimization...
+2024-11-25 17:44:03,227 - trainer - INFO - Current Loss: 10.7086, Best Loss: 10.7086
+2024-11-25 17:59:43,533 - trainer - INFO - Current Loss: 7.9813, Best Loss: 7.9813
+2024-11-25 18:09:45,861 - trainer - INFO - Current Loss: 2.6842, Best Loss: 2.6842
+2024-11-25 20:46:44,663 - trainer - INFO - Current Loss: 0.5510, Best Loss: 0.5510
+2024-11-25 20:56:36,787 - trainer - INFO - Current Loss: 0.4097, Best Loss: 0.4097
+2024-11-25 21:08:13,200 - trainer - INFO - Current Loss: 0.3502, Best Loss: 0.3502
+2024-11-25 21:21:09,678 - trainer - INFO - Current Loss: 0.2709, Best Loss: 0.2709
+2024-11-25 21:32:50,817 - trainer - INFO - Current Loss: 0.2358, Best Loss: 0.2358
+2024-11-25 21:45:20,938 - trainer - INFO - Current Loss: 0.2234, Best Loss: 0.2234
+2024-11-25 21:57:40,578 - trainer - INFO - Current Loss: 0.2012, Best Loss: 0.2012
+2024-11-25 22:15:59,938 - trainer - INFO - Current Loss: 0.1943, Best Loss: 0.1943
+2024-11-25 22:27:35,172 - trainer - INFO - Current Loss: 0.1803, Best Loss: 0.1803
+2024-11-25 22:39:01,391 - trainer - INFO - Current Loss: 0.1770, Best Loss: 0.1770
+2024-11-26 07:31:42,055 - trainer - INFO - Current Loss: 0.1726, Best Loss: 0.1726
+2024-11-26 07:44:41,859 - trainer - INFO - Current Loss: 0.1470, Best Loss: 0.1470
+2024-11-26 07:54:17,085 - trainer - INFO - Current Loss: 0.1317, Best Loss: 0.1317
+2024-11-26 08:02:56,955 - trainer - INFO - Current Loss: 0.1355, Best Loss: 0.1317
+2024-11-26 08:12:28,049 - trainer - INFO - Current Loss: 0.1356, Best Loss: 0.1317
+2024-11-26 08:21:56,503 - trainer - INFO - Current Loss: 0.1140, Best Loss: 0.1140
+2024-11-26 08:31:29,002 - trainer - INFO - Current Loss: 0.1138, Best Loss: 0.1138
+2024-11-26 08:46:13,837 - trainer - INFO - Current Loss: 0.1283, Best Loss: 0.1138
+2024-11-26 08:57:22,064 - trainer - INFO - Current Loss: 0.1125, Best Loss: 0.1125
+2024-11-26 09:08:25,262 - trainer - INFO - Current Loss: 0.1043, Best Loss: 0.1043
+2024-11-26 09:19:32,669 - trainer - INFO - Current Loss: 0.1053, Best Loss: 0.1043
+2024-11-26 09:30:38,710 - trainer - INFO - Current Loss: 0.1059, Best Loss: 0.1043
+2024-11-26 09:41:42,162 - trainer - INFO - Current Loss: 0.1070, Best Loss: 0.1043
+2024-11-26 09:52:48,807 - trainer - INFO - Current Loss: 0.1126, Best Loss: 0.1043
+2024-11-26 10:03:55,488 - trainer - INFO - Current Loss: 0.1051, Best Loss: 0.1043
+2024-11-26 10:15:02,986 - trainer - INFO - Current Loss: 0.0946, Best Loss: 0.0946
+2024-11-26 10:26:20,514 - trainer - INFO - Current Loss: 0.1050, Best Loss: 0.0946
+2024-11-26 10:44:55,844 - trainer - INFO - Current Loss: 0.0811, Best Loss: 0.0811
+2024-11-26 10:54:21,099 - trainer - INFO - Current Loss: 0.0973, Best Loss: 0.0811
+2024-11-26 11:02:59,197 - trainer - INFO - Current Loss: 0.0844, Best Loss: 0.0811
+2024-11-26 11:12:27,440 - trainer - INFO - Current Loss: 0.0885, Best Loss: 0.0811
+2024-11-26 11:22:15,935 - trainer - INFO - Current Loss: 0.0821, Best Loss: 0.0811
+2024-11-26 11:31:51,317 - trainer - INFO - Current Loss: 0.0840, Best Loss: 0.0811
+2024-11-26 11:41:23,226 - trainer - INFO - Current Loss: 0.0970, Best Loss: 0.0811
+2024-11-26 11:50:51,838 - trainer - INFO - Current Loss: 0.0858, Best Loss: 0.0811
+2024-11-26 12:01:17,308 - trainer - INFO - Current Loss: 0.0870, Best Loss: 0.0811
+2024-11-26 12:12:14,519 - trainer - INFO - Current Loss: 0.0766, Best Loss: 0.0766
+2024-11-26 12:28:10,987 - trainer - INFO - Current Loss: 0.0834, Best Loss: 0.0766
+2024-11-26 12:37:30,770 - trainer - INFO - Current Loss: 0.0820, Best Loss: 0.0766
+2024-11-26 12:47:01,922 - trainer - INFO - Current Loss: 0.0814, Best Loss: 0.0766
+2024-11-26 12:56:42,959 - trainer - INFO - Current Loss: 0.0873, Best Loss: 0.0766
+2024-11-26 13:06:08,807 - trainer - INFO - Current Loss: 0.0690, Best Loss: 0.0690
+2024-11-26 13:15:51,623 - trainer - INFO - Current Loss: 0.0764, Best Loss: 0.0690
+2024-11-26 13:29:00,840 - trainer - INFO - Current Loss: 0.0726, Best Loss: 0.0690
+2024-11-26 13:39:08,082 - trainer - INFO - Current Loss: 0.0768, Best Loss: 0.0690
+2024-11-26 13:47:57,598 - trainer - INFO - Saving model...
+2024-11-26 13:48:02,584 - trainer - INFO - 
+Training Complete! Final Metrics:
+2024-11-26 13:48:02,587 - trainer - INFO - train_loss: 0.5676212092606324
+2024-11-26 13:48:02,587 - trainer - INFO - train_time_seconds: 73129.6126
+2024-11-26 13:48:02,588 - trainer - INFO - samples_per_second: 0.053
+2024-11-26 13:48:02,589 - trainer - INFO - peak_memory_gb: 0
+2024-11-26 13:48:02,589 - trainer - INFO - training_finished: 2024-11-26T13:48:02.558212

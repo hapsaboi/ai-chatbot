@@ -1,0 +1,258 @@
+{
+  "timestamp": "2024-11-30T16:34:41.026551",
+  "metrics": {
+    "response_quality": {
+      "factual_accuracy": 0.8,
+      "completeness": 0.8,
+      "relevance": 0.8,
+      "clarity": 0.77,
+      "hallucination": 0.0
+    },
+    "retrieval": {
+      "precision": 0.8675,
+      "recall": 0.65,
+      "relevance": 0.8825
+    },
+    "quality": {
+      "overall_quality": 0.2912597703933716,
+      "confidence_alignment": 0.38,
+      "format_quality": 0.4
+    }
+  },
+  "details": [
+    {
+      "test_case": {
+        "type": "location",
+        "query": "Where is the university located?",
+        "expected_response": "The university is located at Dubai Academic City - Dubai - United Arab Emirates.",
+        "expected_knowledge": [
+          "Location: Dubai Academic City - Dubai - United Arab Emirates"
+        ]
+      },
+      "response": {
+        "status": "success",
+        "response": "Emirates Aviation University is located in Dubai Academic City, Dubai, United Arab Emirates.",
+        "confidence": 0.5562988519668579,
+        "relevant_knowledge": [
+          "Location: Dubai Academic City - Dubai - United Arab Emirates",
+          "University_Name: Emirates Aviation University",
+          "The university is accredited by UAE as Ministry of Education \u2013 Higher Education Affairs",
+          "The university is accredited by nan as Boeing",
+          "The Residential facilities include: On-campus student accommodation"
+        ]
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 1.0,
+          "completeness": 1.0,
+          "relevance": 1.0,
+          "clarity": 1.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0
+        },
+        "quality": {
+          "overall_quality": 0.5562988519668579,
+          "confidence_alignment": 1.0,
+          "format_quality": 1.0
+        },
+        "performance": {
+          "response_time": 4.3787760734558105,
+          "success": true
+        }
+      }
+    },
+    {
+      "test_case": {
+        "type": "faculty",
+        "query": "Who is the faculty Dr. Deepudev?",
+        "expected_response": "Dr. Deepudev Shahadevan is an Assistant Professor in the Faculty of Mathematics and Data Science. His specialization is Data Science, Machine Learning, and Air Traffic Management.",
+        "expected_knowledge": [
+          "Dr. Deepudev Shahadevan is a Assistant Professor in the Faculty of Mathematics and Data Science",
+          "Specialization: Data Science, Machine Learning, Air Traffic Management"
+        ]
+      },
+      "response": {
+        "status": "success",
+        "response": "Dr. Deepudev Shahadevan is an Assistant Professor in the Faculty of Mathematics and Data Science at Emirates Aviation University. His specializations include Data Science, Machine Learning, and Air Traffic Management, and his research interests include 4D Trajectory Based Operation, Airport and Airspace Capacity Enhancement, and Airline Scheduling.",
+        "confidence": 0.43809735774993896,
+        "relevant_knowledge": [
+          "Dr.Blessy Trencia Lincy is a Assistant Professor in the Faculty of Mathematics and Data Science. Contact: blessytrencialincy.simonshepherd@emirates.com, +971 4 6050172. Specialization: Computer Science, Data Science. Research interests: Artificial Intelligence, Data Science, Big Data Analytics, Machine Learning",
+          "Dr. Deepudev Shahadevan is a Assistant Professor in the Faculty of Mathematics and Data Science. Contact: deepu.dev@eau.ac.ae, +971 4 6050154. Specialization: Data Science, Machine Learning, Air Traffic Management. Research interests: 4D Trajectory Based Operation, Airport and Airspace Capacity Enhancement, Airline Scheduling",
+          "Prof. Dr. Zindoga Mukandavire is a Acting Dean in the Faculty of Business Management. Contact: zindoga.mukandavire@emirates.com, +971 4 6050189. Specialization: Mathematical modeling, Aviation industry problems. Research interests: Designing and using mathematical models to understand and solve problems in aviation industry, biology, and public health",
+          "Dr. Sevda Ahmadian is a Assistant Professor in the Faculty of Business Management. Contact: sevda.ahmadian@eau.ac.ae, +971 4 6050121. Specialization: Aviation Management, Pilot training. Research interests: Not specified",
+          "Vice_Chancellor: Professor Ahmad Al Ali"
+        ]
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 0.0,
+          "completeness": 0.0,
+          "relevance": 0.0,
+          "clarity": 0.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0
+        },
+        "quality": {
+          "overall_quality": 0.9,
+          "confidence_alignment": 0.9,
+          "format_quality": 1.0
+        },
+        "performance": {
+          "response_time": 4.875052213668823,
+          "success": true
+        }
+      }
+    },
+    {
+      "test_case": {
+        "type": "admission",
+        "query": "What are the admission requirements?",
+        "expected_response": "For UAE Curriculum (Elite & Advanced Track), you need a minimum overall average of 70%. English proficiency requirements include TOEFL iBT 79 or IELTS 6.0.",
+        "expected_knowledge": [
+          "For UAE Curriculum (Elite & Advanced Track): Minimum overall average of 70%",
+          "For English Proficiency: TOEFL iBT 79 or IELTS 6.0"
+        ]
+      },
+      "response": {
+        "status": "success",
+        "response": "For undergraduate programs, applicants with a UAE curriculum (Elite & Advanced Track) require a minimum overall average of 70%, while those with a UAE curriculum (General Track) need a minimum overall average of 90%. Applicants with a British system must have successfully completed Year 13, while those with an IB diploma need a minimum score of 24 points including a minimum of 4 points in HL Math and Physics. Applicants with an American system require a minimum of 70% average in their final grade (Grade 12). For the Indian system, applicants need a minimum average of 50% in their Senior Secondary School Certificate (12th Standard). For all programs, applicants must have a minimum CGPA of 3.0 on a 4.0 scale for postgraduate programs, and a minimum English proficiency score of TOEFL iBT 79 or IELTS 6.0 or EmSAT 1400. The application process involves submitting required documents online and possible interviews. International students can apply for a UAE student visa sponsorship, and merit-based scholarships are available for",
+        "confidence": 0.7024282813072205,
+        "relevant_knowledge": [
+          "Admission requirements for Postgraduate programs:\n- For Bachelor's Degree: Minimum CGPA of 3.0 on a 4.0 scale\n- For English Proficiency: TOEFL iBT 79 or IELTS 6.0\n",
+          "Admission requirements for Undergraduate programs:\n- For UAE Curriculum (Elite & Advanced Track): Minimum overall average of 70%\n- For UAE Curriculum (General Track): Minimum overall average of 90%\n- For British System: Successfully complete Year 13\n- For IB Diploma: Minimum score of 24 points including min 4 points in HL Math and Physics\n- For American System: Minimum of 70% average in final grade (Grade 12)\n- For Indian System: Minimum average of 50% in Senior Secondary School Certificate (12th Standard)\n- For English Proficiency: TOEFL iBT 79 or IELTS 6.0 or EmSAT 1400\n",
+          "Admission requirements for All programs:\n- For Application Process: Online application\n- For Application Process: Submission of required documents\n- For Application Process: Possible interview\n- For Visa: UAE student visa sponsorship available for international students\n- For Scholarships: Merit-based scholarships available for academically distinguished students\n",
+          "The university is accredited by UK as The Quality Assurance Agency for Higher Education (QAA)",
+          "Type: Private university specializing in aviation education"
+        ]
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 1.0,
+          "completeness": 1.0,
+          "relevance": 1.0,
+          "clarity": 1.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 0.8,
+          "recall": 0.6,
+          "relevance": 0.7
+        },
+        "quality": {
+          "overall_quality": 0.0,
+          "confidence_alignment": 0.0,
+          "format_quality": 0.0
+        },
+        "performance": {
+          "response_time": 4.338244438171387,
+          "success": true
+        }
+      }
+    },
+    {
+      "test_case": {
+        "type": "facilities",
+        "query": "What facilities do you have?",
+        "expected_response": "Our facilities include engineering laboratories, workshops, flight simulators, Learning Resource Centre, cafeteria, coffee shop, and sports facilities including swimming pool, gym, and tennis courts.",
+        "expected_knowledge": [
+          "The Academic facilities include: Engineering laboratories, Workshops, Flight simulators, Learning Resource Centre",
+          "The Sports facilities include: Swimming pool, Gym, Tennis courts",
+          "The Dining facilities include: Cafeteria, Coffee shop"
+        ]
+      },
+      "response": {
+        "status": "success",
+        "response": "We have Recreation facilities including a Student Activity Room and TV rooms, Residential facilities with on-campus student accommodation, Academic facilities such as Engineering laboratories, Workshops, Flight simulators, and a Learning Resource Centre, Dining facilities consisting of a Cafeteria and Coffee shop, and Sports facilities that encompass a Swimming pool, Gym, Tennis courts, Basketball court, and Football field, as well as a Cricket pitch.",
+        "confidence": 0.505336344242096,
+        "relevant_knowledge": [
+          "The Recreation facilities include: Student Activity Room, TV rooms",
+          "The Residential facilities include: On-campus student accommodation",
+          "The Academic facilities include: Engineering laboratories, Workshops, Flight simulators, Learning Resource Centre",
+          "The Dining facilities include: Cafeteria, Coffee shop",
+          "The Sports facilities include: Swimming pool, Gym, Tennis courts, Basketball court, Football field, Cricket pitch"
+        ]
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 1.0,
+          "completeness": 1.0,
+          "relevance": 1.0,
+          "clarity": 0.85,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 0.67,
+          "recall": 0.5,
+          "relevance": 0.83
+        },
+        "quality": {
+          "overall_quality": 0.0,
+          "confidence_alignment": 0.0,
+          "format_quality": 0.0
+        },
+        "performance": {
+          "response_time": 4.255424737930298,
+          "success": true
+        }
+      }
+    },
+    {
+      "test_case": {
+        "type": "edge_case",
+        "query": "How old are you?",
+        "expected_response": "I am an AI assistant focused on providing information about Emirates Aviation University. I can help you with questions about our programs, admissions, facilities, and other university-related topics.",
+        "expected_knowledge": []
+      },
+      "response": {
+        "status": "general_guidance",
+        "response": "As an information assistant, I am not programmed with a physical age. However, at Emirates Aviation University, we pride ourselves on being a leading aviation-focused institution that offers undergraduate and graduate programs in aviation management, avionics, aircraft maintenance, and engineering disciplines. Our faculty members bring years of industry experience to the classroom, providing students with practical insights into the aviation industry. We also offer state-of-the-art facilities, including flight simulators, laboratories, and workshops, to provide hands-on learning experiences. If you have further questions related to university education, please don't hesitate to ask.",
+        "confidence": 0.3,
+        "relevant_knowledge": []
+      },
+      "metrics": {
+        "response_quality": {
+          "factual_accuracy": 1.0,
+          "completeness": 1.0,
+          "relevance": 1.0,
+          "clarity": 1.0,
+          "hallucination": 0.0
+        },
+        "retrieval": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "relevance": 0.0
+        },
+        "quality": {
+          "overall_quality": 0.0,
+          "confidence_alignment": 0.0,
+          "format_quality": 0.0
+        },
+        "performance": {
+          "response_time": 3.859401226043701,
+          "success": false
+        }
+      }
+    }
+  ],
+  "evaluator_averages": {
+    "response_quality": 0.634,
+    "retrieval": 0.7999999999999999,
+    "quality": 0.3570865901311239
+  },
+  "metric_type_averages": {
+    "factual_accuracy": 0.8,
+    "completeness": 0.8,
+    "relevance": 0.8,
+    "clarity": 0.77,
+    "hallucination": 0.0
+  },
+  "total_time": 21.70689868927002
+}

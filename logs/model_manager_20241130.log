@@ -1,0 +1,891 @@
+2024-11-30 14:03:06,608 - model_manager - INFO - Loading embedding model
+2024-11-30 14:03:12,550 - model_manager - INFO - Using API model
+2024-11-30 14:03:12,557 - model_manager - INFO - Model initialization complete
+2024-11-30 14:05:28,053 - model_manager - INFO - Loading embedding model
+2024-11-30 14:05:32,573 - model_manager - INFO - Using API model
+2024-11-30 14:05:32,573 - model_manager - INFO - Model initialization complete
+2024-11-30 14:06:23,864 - model_manager - INFO - Loading embedding model
+2024-11-30 14:06:30,308 - model_manager - INFO - Using API model
+2024-11-30 14:06:30,313 - model_manager - INFO - Model initialization complete
+2024-11-30 14:08:46,932 - model_manager - INFO - Loading embedding model
+2024-11-30 14:08:52,843 - model_manager - INFO - Using API model
+2024-11-30 14:08:52,864 - model_manager - INFO - Model initialization complete
+2024-11-30 14:10:57,863 - model_manager - INFO - Loading embedding model
+2024-11-30 14:11:05,582 - model_manager - INFO - Using API model
+2024-11-30 14:11:05,582 - model_manager - INFO - Model initialization complete
+2024-11-30 14:14:31,740 - model_manager - INFO - Loading embedding model
+2024-11-30 14:14:36,688 - model_manager - INFO - Using API model
+2024-11-30 14:14:36,688 - model_manager - INFO - Model initialization complete
+2024-11-30 14:16:04,121 - model_manager - INFO - Loading embedding model
+2024-11-30 14:16:08,531 - model_manager - INFO - Using API model
+2024-11-30 14:16:08,531 - model_manager - INFO - Model initialization complete
+2024-11-30 14:17:58,300 - model_manager - INFO - Loading embedding model
+2024-11-30 14:18:07,764 - model_manager - INFO - Using API model
+2024-11-30 14:18:07,764 - model_manager - INFO - Model initialization complete
+2024-11-30 14:21:05,285 - model_manager - INFO - Loading embedding model
+2024-11-30 14:21:09,070 - model_manager - INFO - Using API model
+2024-11-30 14:21:09,070 - model_manager - INFO - Model initialization complete
+2024-11-30 14:22:04,966 - model_manager - INFO - Loading embedding model
+2024-11-30 14:22:09,339 - model_manager - INFO - Using API model
+2024-11-30 14:22:09,342 - model_manager - INFO - Model initialization complete
+2024-11-30 14:23:26,624 - model_manager - INFO - Loading embedding model
+2024-11-30 14:23:30,652 - model_manager - INFO - Using API model
+2024-11-30 14:23:30,652 - model_manager - INFO - Model initialization complete
+2024-11-30 14:27:01,334 - model_manager - INFO - Loading embedding model
+2024-11-30 14:27:05,323 - model_manager - INFO - Using API model
+2024-11-30 14:27:05,323 - model_manager - INFO - Model initialization complete
+2024-11-30 14:28:09,586 - model_manager - INFO - Loading embedding model
+2024-11-30 14:28:13,555 - model_manager - INFO - Using API model
+2024-11-30 14:28:13,555 - model_manager - INFO - Model initialization complete
+2024-11-30 14:29:39,390 - model_manager - INFO - Loading embedding model
+2024-11-30 14:29:44,076 - model_manager - INFO - Using API model
+2024-11-30 14:29:44,076 - model_manager - INFO - Model initialization complete
+2024-11-30 14:31:27,424 - model_manager - INFO - Loading embedding model
+2024-11-30 14:31:31,771 - model_manager - INFO - Using API model
+2024-11-30 14:31:31,771 - model_manager - INFO - Model initialization complete
+2024-11-30 14:33:29,352 - model_manager - INFO - Loading embedding model
+2024-11-30 14:33:33,936 - model_manager - INFO - Using API model
+2024-11-30 14:33:33,936 - model_manager - INFO - Model initialization complete
+2024-11-30 14:38:26,799 - model_manager - INFO - Loading embedding model
+2024-11-30 14:38:30,696 - model_manager - INFO - Using API model
+2024-11-30 14:38:30,696 - model_manager - INFO - Model initialization complete
+2024-11-30 14:46:18,379 - model_manager - INFO - Loading embedding model
+2024-11-30 14:46:22,281 - model_manager - INFO - Using API model
+2024-11-30 14:46:22,281 - model_manager - INFO - Model initialization complete
+2024-11-30 14:48:34,497 - model_manager - INFO - Loading embedding model
+2024-11-30 14:48:39,071 - model_manager - INFO - Using API model
+2024-11-30 14:48:39,071 - model_manager - INFO - Model initialization complete
+2024-11-30 15:11:16,434 - model_manager - INFO - Loading embedding model
+2024-11-30 15:11:21,263 - model_manager - INFO - Using API model
+2024-11-30 15:11:21,263 - model_manager - INFO - Model initialization complete
+2024-11-30 15:14:41,720 - model_manager - INFO - Loading embedding model
+2024-11-30 15:14:46,073 - model_manager - INFO - Using API model
+2024-11-30 15:14:46,073 - model_manager - INFO - Model initialization complete
+2024-11-30 15:17:20,376 - model_manager - INFO - Loading embedding model
+2024-11-30 15:17:29,817 - model_manager - INFO - Using API model
+2024-11-30 15:17:29,817 - model_manager - INFO - Model initialization complete
+2024-11-30 15:29:43,430 - model_manager - INFO - Loading embedding model
+2024-11-30 15:29:49,797 - model_manager - INFO - Using Mistral API model
+2024-11-30 15:29:49,797 - model_manager - INFO - Model initialization complete
+2024-11-30 15:31:47,579 - model_manager - INFO - Loading embedding model
+2024-11-30 15:31:52,226 - model_manager - INFO - Using Mistral API model
+2024-11-30 15:31:52,229 - model_manager - INFO - Model initialization complete
+2024-11-30 15:36:08,086 - model_manager - INFO - Loading embedding model
+2024-11-30 15:36:14,122 - model_manager - INFO - Using API model
+2024-11-30 15:36:14,131 - model_manager - INFO - Model initialization complete
+2024-11-30 15:46:16,666 - model_manager - INFO - Loading embedding model
+2024-11-30 15:46:20,777 - model_manager - INFO - Using API model
+2024-11-30 15:46:20,778 - model_manager - INFO - Model initialization complete
+2024-11-30 15:47:19,426 - model_manager - INFO - Loading embedding model
+2024-11-30 15:47:23,715 - model_manager - INFO - Using API model
+2024-11-30 15:47:23,716 - model_manager - INFO - Model initialization complete
+2024-11-30 15:51:51,778 - model_manager - INFO - Loading embedding model
+2024-11-30 15:51:56,165 - model_manager - INFO - Using API model
+2024-11-30 15:51:56,180 - model_manager - INFO - Model initialization complete
+2024-11-30 15:52:17,510 - model_manager - INFO - Loading embedding model
+2024-11-30 15:52:17,510 - model_manager - INFO - Loading embedding model
+2024-11-30 15:52:21,656 - model_manager - INFO - Loading local chat model
+2024-11-30 15:52:21,656 - model_manager - INFO - Loading local chat model
+2024-11-30 15:52:21,656 - model_manager - ERROR - Error initializing models: type object 'ChatbotConfig' has no attribute 'LOCAL_CHAT_MODEL'
+2024-11-30 15:52:21,656 - model_manager - ERROR - Error initializing models: type object 'ChatbotConfig' has no attribute 'LOCAL_CHAT_MODEL'
+2024-11-30 15:58:15,328 - model_manager - INFO - Loading embedding model
+2024-11-30 15:58:20,937 - model_manager - INFO - Using API model
+2024-11-30 15:58:20,937 - model_manager - INFO - Model initialization complete
+2024-11-30 15:58:45,269 - model_manager - INFO - Loading embedding model
+2024-11-30 15:58:45,269 - model_manager - INFO - Loading embedding model
+2024-11-30 15:59:00,348 - model_manager - INFO - Using API model
+2024-11-30 15:59:00,348 - model_manager - INFO - Using API model
+2024-11-30 15:59:00,354 - model_manager - INFO - Model initialization complete
+2024-11-30 15:59:00,354 - model_manager - INFO - Model initialization complete
+2024-11-30 15:59:01,595 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:01,595 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:01,610 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:01,610 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:04,020 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:04,020 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:04,020 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:04,020 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:05,143 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:05,143 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:05,156 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:05,156 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:06,390 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:06,390 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:06,392 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:06,392 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:08,216 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:08,216 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:08,217 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:08,217 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:09,198 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:09,198 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:09,199 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:09,199 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:10,058 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:10,058 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:10,061 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:10,061 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:16,115 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:16,115 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:16,117 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:16,117 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:17,983 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:17,983 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:17,985 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:17,985 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:18,955 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:18,955 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:18,959 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:18,959 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:21,032 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:21,032 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:21,032 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:21,032 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:21,948 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:21,948 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:21,951 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:21,951 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:24,552 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:24,552 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:24,558 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:24,558 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:27,882 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:27,882 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:27,892 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:27,892 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:29,027 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:29,027 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:29,340 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:29,340 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:30,389 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:30,389 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:30,394 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:30,394 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:31,195 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:31,195 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:31,195 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:31,195 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:32,114 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:32,114 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:32,114 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:32,114 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:33,989 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:33,989 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:33,989 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:33,989 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:35,973 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:35,973 - model_manager - ERROR - API request failed: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:35,973 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:35,973 - model_manager - ERROR - Error generating response: 503 Server Error: Service Unavailable for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 15:59:36,555 - model_manager - INFO - Loading embedding model
+2024-11-30 15:59:36,555 - model_manager - INFO - Loading embedding model
+2024-11-30 15:59:36,555 - model_manager - INFO - Loading embedding model
+2024-11-30 15:59:42,277 - model_manager - INFO - Using API model
+2024-11-30 15:59:42,277 - model_manager - INFO - Using API model
+2024-11-30 15:59:42,277 - model_manager - INFO - Using API model
+2024-11-30 15:59:42,277 - model_manager - INFO - Model initialization complete
+2024-11-30 15:59:42,277 - model_manager - INFO - Model initialization complete
+2024-11-30 15:59:42,277 - model_manager - INFO - Model initialization complete
+2024-11-30 16:00:15,972 - model_manager - ERROR - API request failed: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:15,972 - model_manager - ERROR - API request failed: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:15,972 - model_manager - ERROR - API request failed: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:15,992 - model_manager - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:15,992 - model_manager - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:15,992 - model_manager - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:27,230 - model_manager - ERROR - API request failed: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:27,230 - model_manager - ERROR - API request failed: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:27,230 - model_manager - ERROR - API request failed: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:27,241 - model_manager - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:27,241 - model_manager - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:27,241 - model_manager - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:00:54,324 - model_manager - INFO - Loading embedding model
+2024-11-30 16:00:54,324 - model_manager - INFO - Loading embedding model
+2024-11-30 16:00:54,324 - model_manager - INFO - Loading embedding model
+2024-11-30 16:00:54,324 - model_manager - INFO - Loading embedding model
+2024-11-30 16:00:59,399 - model_manager - INFO - Using API model
+2024-11-30 16:00:59,399 - model_manager - INFO - Using API model
+2024-11-30 16:00:59,399 - model_manager - INFO - Using API model
+2024-11-30 16:00:59,399 - model_manager - INFO - Using API model
+2024-11-30 16:00:59,399 - model_manager - INFO - Model initialization complete
+2024-11-30 16:00:59,399 - model_manager - INFO - Model initialization complete
+2024-11-30 16:00:59,399 - model_manager - INFO - Model initialization complete
+2024-11-30 16:00:59,399 - model_manager - INFO - Model initialization complete
+2024-11-30 16:01:00,534 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:00,534 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:00,534 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:00,534 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:00,536 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:00,536 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:00,536 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:00,536 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:01,868 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:01,868 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:01,868 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:01,868 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:01,868 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:01,868 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:01,868 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:01,868 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:02,919 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:02,919 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:02,919 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:02,919 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:02,929 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:02,929 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:02,929 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:02,929 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:05,469 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:05,469 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:05,469 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:05,469 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:05,482 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:05,482 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:05,482 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:05,482 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:07,025 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:07,025 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:07,025 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:07,025 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:07,032 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:07,032 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:07,032 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:07,032 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:08,527 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:08,527 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:08,527 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:08,527 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:08,532 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:08,532 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:08,532 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:08,532 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:10,514 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:10,514 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:10,514 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:10,514 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:10,520 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:10,520 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:10,520 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:10,520 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:11,600 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:11,600 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:11,600 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:11,600 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:11,607 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:11,607 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:11,607 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:11,607 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:12,768 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:12,768 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:12,768 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:12,768 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:12,780 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:12,780 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:12,780 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:12,780 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:14,234 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:14,234 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:14,234 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:14,234 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:14,239 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:14,239 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:14,239 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:14,239 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:15,553 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:15,553 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:15,553 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:15,553 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:15,559 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:15,559 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:15,559 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:15,559 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:17,329 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:17,329 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:17,329 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:17,329 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:17,336 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:17,336 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:17,336 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:17,336 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:18,435 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:18,435 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:18,435 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:18,435 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:18,437 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:18,437 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:18,437 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:18,437 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:22,289 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:22,289 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:22,289 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:22,289 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:22,295 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:22,295 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:22,295 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:22,295 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:23,265 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:23,265 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:23,265 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:23,265 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:23,270 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:23,270 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:23,270 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:23,270 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:24,419 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:24,419 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:24,419 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:24,419 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:24,422 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:24,422 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:24,422 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:24,422 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:25,314 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:25,314 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:25,314 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:25,314 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:25,314 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:25,314 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:25,314 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:25,314 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:26,359 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:26,359 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:26,359 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:26,359 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:26,375 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:26,375 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:26,375 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:26,375 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:27,526 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:27,526 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:27,526 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:27,526 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:27,531 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:27,531 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:27,531 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:27,531 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:28,575 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:28,575 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:28,575 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:28,575 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:28,582 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:28,582 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:28,582 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:01:28,582 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:04:11,459 - model_manager - INFO - Loading embedding model
+2024-11-30 16:04:16,428 - model_manager - INFO - Using API model
+2024-11-30 16:04:16,430 - model_manager - INFO - Model initialization complete
+2024-11-30 16:04:35,606 - model_manager - INFO - Loading embedding model
+2024-11-30 16:04:35,606 - model_manager - INFO - Loading embedding model
+2024-11-30 16:04:39,415 - model_manager - INFO - Using API model
+2024-11-30 16:04:39,415 - model_manager - INFO - Using API model
+2024-11-30 16:04:39,431 - model_manager - INFO - Model initialization complete
+2024-11-30 16:04:39,431 - model_manager - INFO - Model initialization complete
+2024-11-30 16:09:09,720 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 16:09:09,720 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 16:09:09,735 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 16:09:09,735 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/microsoft/phi-2
+2024-11-30 16:10:09,041 - model_manager - INFO - Loading embedding model
+2024-11-30 16:10:13,301 - model_manager - INFO - Using API model
+2024-11-30 16:10:13,301 - model_manager - INFO - Model initialization complete
+2024-11-30 16:11:00,301 - model_manager - INFO - Loading embedding model
+2024-11-30 16:11:04,980 - model_manager - INFO - Using API model
+2024-11-30 16:11:04,980 - model_manager - INFO - Model initialization complete
+2024-11-30 16:11:14,700 - model_manager - ERROR - API request failed: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:11:14,700 - model_manager - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:11:40,596 - model_manager - ERROR - API request failed: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:11:40,596 - model_manager - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:11:49,548 - model_manager - INFO - Loading embedding model
+2024-11-30 16:11:49,548 - model_manager - INFO - Loading embedding model
+2024-11-30 16:11:53,941 - model_manager - INFO - Using API model
+2024-11-30 16:11:53,941 - model_manager - INFO - Using API model
+2024-11-30 16:11:53,950 - model_manager - INFO - Model initialization complete
+2024-11-30 16:11:53,950 - model_manager - INFO - Model initialization complete
+2024-11-30 16:11:54,877 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:54,877 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:54,892 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:54,892 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:55,756 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:55,756 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:55,756 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:55,756 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:56,620 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:56,620 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:56,620 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:56,620 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:57,516 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:57,516 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:57,516 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:57,516 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:58,291 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:58,291 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:58,291 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:58,291 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:59,170 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:59,170 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:59,170 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:11:59,170 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:00,067 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:00,067 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:00,067 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:00,067 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:00,883 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:00,883 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:00,883 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:00,883 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:01,730 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:01,730 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:01,730 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:01,730 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:02,561 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:02,561 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:02,561 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:02,561 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:03,440 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:03,440 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:03,440 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:03,440 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:04,288 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:04,288 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:04,288 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:04,288 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:05,086 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:05,086 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:05,101 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:05,101 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:06,008 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:06,008 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:06,008 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:06,008 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:07,108 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:07,108 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:07,108 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:07,108 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:07,988 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:07,988 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:07,988 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:07,988 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:08,788 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:08,788 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:08,788 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:08,788 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:09,672 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:09,672 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:09,672 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:09,672 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:10,438 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:10,438 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:10,454 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:10,454 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:11,302 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:11,302 - model_manager - ERROR - API request failed: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:11,317 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:12:11,317 - model_manager - ERROR - Error generating response: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+2024-11-30 16:17:17,580 - model_manager - INFO - Loading embedding model
+2024-11-30 16:17:21,858 - model_manager - INFO - Using API model
+2024-11-30 16:17:21,953 - model_manager - INFO - Model initialization complete
+2024-11-30 16:17:49,358 - model_manager - INFO - Loading embedding model
+2024-11-30 16:17:49,358 - model_manager - INFO - Loading embedding model
+2024-11-30 16:17:53,706 - model_manager - INFO - Using API model
+2024-11-30 16:17:53,706 - model_manager - INFO - Using API model
+2024-11-30 16:17:53,706 - model_manager - INFO - Model initialization complete
+2024-11-30 16:17:53,706 - model_manager - INFO - Model initialization complete
+2024-11-30 16:17:53,951 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:53,951 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,032 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,032 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,085 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,085 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,151 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,151 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,192 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,192 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,282 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,282 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,357 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,357 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,420 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,420 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,455 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,455 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,555 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,555 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,620 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,620 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,683 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,683 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,723 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,723 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,816 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,816 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,883 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,883 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,950 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,950 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,973 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:54,973 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:55,081 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:55,081 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:55,144 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:55,144 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:55,215 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:55,215 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-v0.1
+2024-11-30 16:17:56,486 - model_manager - INFO - Loading embedding model
+2024-11-30 16:17:56,486 - model_manager - INFO - Loading embedding model
+2024-11-30 16:17:56,486 - model_manager - INFO - Loading embedding model
+2024-11-30 16:18:00,214 - model_manager - INFO - Using API model
+2024-11-30 16:18:00,214 - model_manager - INFO - Using API model
+2024-11-30 16:18:00,214 - model_manager - INFO - Using API model
+2024-11-30 16:18:00,214 - model_manager - INFO - Model initialization complete
+2024-11-30 16:18:00,214 - model_manager - INFO - Model initialization complete
+2024-11-30 16:18:00,214 - model_manager - INFO - Model initialization complete
+2024-11-30 16:18:00,345 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,345 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,345 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,432 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,432 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,432 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,495 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,495 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,495 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,561 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,561 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,561 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,587 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,587 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,587 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,678 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,678 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,678 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,745 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,745 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,745 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,830 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,830 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,830 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,856 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,856 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,856 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,950 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,950 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:00,950 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,011 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,011 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,011 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,078 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,078 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,078 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,111 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,111 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,111 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,204 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,204 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,204 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,281 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,281 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,281 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,345 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,345 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,345 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,378 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,378 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,378 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,479 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,479 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,479 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,533 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,533 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,533 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,613 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,613 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:18:01,613 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:22:20,973 - model_manager - INFO - Loading embedding model
+2024-11-30 16:22:25,464 - model_manager - INFO - Using API model
+2024-11-30 16:22:25,464 - model_manager - INFO - Model initialization complete
+2024-11-30 16:23:19,623 - model_manager - INFO - Loading embedding model
+2024-11-30 16:23:19,623 - model_manager - INFO - Loading embedding model
+2024-11-30 16:23:23,368 - model_manager - INFO - Using API model
+2024-11-30 16:23:23,368 - model_manager - INFO - Using API model
+2024-11-30 16:23:23,368 - model_manager - INFO - Model initialization complete
+2024-11-30 16:23:23,368 - model_manager - INFO - Model initialization complete
+2024-11-30 16:23:23,491 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,491 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,576 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,576 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,643 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,643 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,701 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,701 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,729 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,729 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,817 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,817 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,892 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,892 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,957 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,957 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,982 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:23,982 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,068 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,068 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,135 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,135 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,193 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,193 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,230 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,230 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,319 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,319 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,396 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,396 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,458 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,458 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,481 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,481 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,575 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,575 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,637 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,637 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,692 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:24,692 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:23:25,342 - model_manager - INFO - Loading embedding model
+2024-11-30 16:23:25,342 - model_manager - INFO - Loading embedding model
+2024-11-30 16:23:25,342 - model_manager - INFO - Loading embedding model
+2024-11-30 16:23:28,989 - model_manager - INFO - Using API model
+2024-11-30 16:23:28,989 - model_manager - INFO - Using API model
+2024-11-30 16:23:28,989 - model_manager - INFO - Using API model
+2024-11-30 16:23:28,989 - model_manager - INFO - Model initialization complete
+2024-11-30 16:23:28,989 - model_manager - INFO - Model initialization complete
+2024-11-30 16:23:28,989 - model_manager - INFO - Model initialization complete
+2024-11-30 16:23:29,123 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,123 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,123 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,216 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,216 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,216 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,273 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,273 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,273 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,353 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,353 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,353 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,391 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,391 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,391 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,500 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,500 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,500 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,573 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,573 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,573 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,645 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,645 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,645 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,672 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,672 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,672 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,763 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,763 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,763 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,820 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,820 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,820 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,893 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,893 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,893 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,925 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,925 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:29,925 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,121 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,121 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,121 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,223 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,223 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,223 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,293 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,293 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,293 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,323 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,323 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,323 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,436 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,436 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,436 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,525 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,525 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,525 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,603 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,603 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:23:30,603 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:24:27,255 - model_manager - INFO - Loading embedding model
+2024-11-30 16:24:33,037 - model_manager - INFO - Using API model
+2024-11-30 16:24:33,037 - model_manager - INFO - Model initialization complete
+2024-11-30 16:25:03,133 - model_manager - INFO - Loading embedding model
+2024-11-30 16:25:03,133 - model_manager - INFO - Loading embedding model
+2024-11-30 16:25:07,503 - model_manager - INFO - Using API model
+2024-11-30 16:25:07,503 - model_manager - INFO - Using API model
+2024-11-30 16:25:07,503 - model_manager - INFO - Model initialization complete
+2024-11-30 16:25:07,503 - model_manager - INFO - Model initialization complete
+2024-11-30 16:25:08,726 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:08,726 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:08,726 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:08,726 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:09,745 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:09,745 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:09,761 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:09,761 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:10,826 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:10,826 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:10,826 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:10,826 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:11,655 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:11,655 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:11,671 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:11,671 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:12,634 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:12,634 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:12,634 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:12,634 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:13,584 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:13,584 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:13,584 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:13,584 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:14,536 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:14,536 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:14,538 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:14,538 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:15,446 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:15,446 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:15,446 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:15,446 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:16,354 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:16,354 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:16,360 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:16,360 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:17,264 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:17,264 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:17,264 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:17,264 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:18,471 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:18,471 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:18,471 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:18,471 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:19,535 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:19,535 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:19,538 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:19,538 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:20,396 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:20,396 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:20,396 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:20,396 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:21,504 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:21,504 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:21,507 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:21,507 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:22,445 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:22,445 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:22,452 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:22,452 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:23,400 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:23,400 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:23,403 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:23,403 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:24,352 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:24,352 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:24,352 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:24,352 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:25,264 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:25,264 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:25,264 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:25,264 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:26,194 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:26,194 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:26,211 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:26,211 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:27,107 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:27,107 - model_manager - ERROR - API request failed: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:27,109 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:27,109 - model_manager - ERROR - Error generating response: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/mistralai/Pixtral-Large-Instruct-2411
+2024-11-30 16:25:27,692 - model_manager - INFO - Loading embedding model
+2024-11-30 16:25:27,692 - model_manager - INFO - Loading embedding model
+2024-11-30 16:25:27,692 - model_manager - INFO - Loading embedding model
+2024-11-30 16:25:31,360 - model_manager - INFO - Using API model
+2024-11-30 16:25:31,360 - model_manager - INFO - Using API model
+2024-11-30 16:25:31,360 - model_manager - INFO - Using API model
+2024-11-30 16:25:31,362 - model_manager - INFO - Model initialization complete
+2024-11-30 16:25:31,362 - model_manager - INFO - Model initialization complete
+2024-11-30 16:25:31,362 - model_manager - INFO - Model initialization complete
+2024-11-30 16:25:31,504 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,504 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,504 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,592 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,592 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,592 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,639 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,639 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,639 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,727 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,727 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,727 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,755 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,755 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,755 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,841 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,841 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,841 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,906 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,906 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:31,906 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,049 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,049 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,049 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,079 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,079 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,079 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,167 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,167 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,167 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,222 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,222 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,222 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,289 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,289 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,289 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,325 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,325 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,325 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,441 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,441 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,441 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,523 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,523 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,523 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,584 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,584 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,584 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,613 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,613 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,613 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,706 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,706 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,706 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,756 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,756 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,756 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,825 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,825 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:25:32,825 - model_manager - ERROR - Error generating response: Invalid model name: mistralai/Mistral-7B-Instruct-v0.1
+2024-11-30 16:27:36,927 - model_manager - INFO - Loading embedding model
+2024-11-30 16:27:48,409 - model_manager - INFO - Using API model
+2024-11-30 16:27:48,409 - model_manager - INFO - Model initialization complete
+2024-11-30 16:30:46,390 - model_manager - INFO - Loading embedding model
+2024-11-30 16:30:51,122 - model_manager - INFO - Using API model
+2024-11-30 16:30:51,122 - model_manager - INFO - Model initialization complete
+2024-11-30 16:34:36,489 - model_manager - INFO - Loading embedding model
+2024-11-30 16:34:40,900 - model_manager - INFO - Using API model
+2024-11-30 16:34:40,900 - model_manager - INFO - Model initialization complete
+2024-11-30 16:45:02,190 - model_manager - INFO - Loading embedding model
+2024-11-30 16:45:06,809 - model_manager - INFO - Using API model
+2024-11-30 16:45:06,809 - model_manager - INFO - Model initialization complete
+2024-11-30 16:45:22,525 - model_manager - ERROR - API request failed: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:45:22,525 - model_manager - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:45:27,283 - model_manager - ERROR - API request failed: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2
+2024-11-30 16:45:27,283 - model_manager - ERROR - Error generating response: 422 Client Error: Unprocessable Entity for url: https://api-inference.huggingface.co/models/gpt2

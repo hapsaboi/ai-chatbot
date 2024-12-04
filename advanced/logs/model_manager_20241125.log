@@ -1,0 +1,25 @@
+2024-11-25 16:29:05,535 - model_manager - INFO - Loading base model
+2024-11-25 16:29:07,896 - model_manager - INFO - Loading embedding model
+2024-11-25 16:29:13,098 - model_manager - INFO - Model initialization complete
+2024-11-25 16:29:33,845 - model_manager - ERROR - Error generating response: Input length of input_ids is 280, but `max_length` is set to 200. This can lead to unexpected behavior. You should consider increasing `max_length` or, better yet, setting `max_new_tokens`.
+2024-11-25 16:48:17,302 - model_manager - INFO - Loading base model
+2024-11-25 16:48:19,679 - model_manager - INFO - Loading embedding model
+2024-11-25 16:48:25,707 - model_manager - INFO - Model initialization complete
+2024-11-25 17:02:43,200 - model_manager - INFO - Loading base model
+2024-11-25 17:02:45,989 - model_manager - INFO - Loading embedding model
+2024-11-25 17:02:51,037 - model_manager - INFO - Model initialization complete
+2024-11-25 17:06:56,844 - model_manager - INFO - Loading base model
+2024-11-25 17:06:59,363 - model_manager - INFO - Loading embedding model
+2024-11-25 17:07:05,217 - model_manager - INFO - Model initialization complete
+2024-11-25 17:10:42,353 - model_manager - INFO - Loading base model
+2024-11-25 17:10:44,542 - model_manager - INFO - Loading embedding model
+2024-11-25 17:10:48,695 - model_manager - INFO - Model initialization complete
+2024-11-25 17:26:49,757 - model_manager - INFO - Loading base model
+2024-11-25 17:26:52,134 - model_manager - INFO - Loading embedding model
+2024-11-25 17:26:56,370 - model_manager - INFO - Model initialization complete
+2024-11-25 17:28:55,879 - model_manager - INFO - Loading base model
+2024-11-25 17:28:59,422 - model_manager - INFO - Loading embedding model
+2024-11-25 17:29:04,733 - model_manager - INFO - Model initialization complete
+2024-11-26 13:48:04,188 - model_manager - INFO - Loading saved model version 1.0.0
+2024-11-26 13:48:04,750 - model_manager - INFO - Loading embedding model
+2024-11-26 13:48:09,192 - model_manager - INFO - Model initialization complete
